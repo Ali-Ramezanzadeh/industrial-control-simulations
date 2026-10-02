@@ -1,0 +1,10 @@
+# Local operating-system and editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+
+# Redundant backups
+*.bak
+
+# Do not blanket-ignore STEP 7 databases or companion files.

@@ -1,0 +1,4117 @@
+[
+  {
+    "original": "Midterm_Report.pdf",
+    "repository": "docs/report-fa.pdf",
+    "sha256": "74a743ac585a55cfe772e3855039ae6de7c498889dcbcb9087585ef9118b5573"
+  },
+  {
+    "original": "Industrial_Control_Midterm_Questions.pdf",
+    "repository": "docs/exam-questions-fa.pdf",
+    "sha256": "b804d1bbba3f2f6b40575c9077f3b72fdfef535a5403f850c9b2640cd264469a"
+  },
+  {
+    "original": "Q1(Mideterm)/Q1/noname.ct",
+    "repository": "exercises/01-pneumatic-machining/native/noname.ct",
+    "sha256": "239c7966159142e7eeed658ce3a64662b31550228d319c02c1436d335121cf7f"
+  },
+  {
+    "original": "Q2(Mideterm)/Q2/noname1.ct",
+    "repository": "exercises/02-magnetic-part-separation/native/noname1.ct",
+    "sha256": "b8a40379b1af9611fcb46065adb273306ef3fb6ba1fcab0942e7e9ba32fe22d5"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/link.lnk",
+    "repository": "exercises/03-traffic-light-control/native/Q3/link.lnk",
+    "sha256": "ef98b751adc5909283efd7b8a8c32d9b06161e6b4feaae9e371bbb2bbabaee37"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Q3.s7p",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Q3.s7p",
+    "sha256": "f49385f4a530b802f465ee113e6969d5bf119589f03479b851a6e9a7164aeda1"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Q3.S7S",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Q3.S7S",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ApiLog/lock",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ApiLog/lock",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ApiLog/LogIDs",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ApiLog/LogIDs",
+    "sha256": "3c88bf13b58cba9ca7fe10c55db47931f52b52975cf1e9eaa0c9b0ec29c7c6be"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ApiLog/Step7Bas.ver",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ApiLog/Step7Bas.ver",
+    "sha256": "f228f67c8d022415fb70a8eec33c0c475cdd9ab7f74530cb8d0a221ccff10435"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ApiLog/Types",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ApiLog/Types",
+    "sha256": "d38fcf57d1e23709cbe359180528f2c3978a09436676ce4ac0dc31092791196e"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/CONN/LINKVL.dbf",
+    "repository": "exercises/03-traffic-light-control/native/Q3/CONN/LINKVL.dbf",
+    "sha256": "d1861d7087999cd2886a087c53ab88f68fb09818aebded137f98889618493fe4"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/CONN/LOCKVL.LCK",
+    "repository": "exercises/03-traffic-light-control/native/Q3/CONN/LOCKVL.LCK",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/CONN/VERBLIST.PRO",
+    "repository": "exercises/03-traffic-light-control/native/Q3/CONN/VERBLIST.PRO",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/CONN/VERBTAB.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/CONN/VERBTAB.DBF",
+    "sha256": "72764b94de9fe7bf0c6ca645c13fc7ccd7357b86783fad04816eab2d2856a77a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/CONN/VERBTAB.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/CONN/VERBTAB.MDX",
+    "sha256": "63090212cd9ce1985cfa43684a4843e4df5947a9198708705d78648a57d1b76e"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/CONN/VLTAB53.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/CONN/VLTAB53.DBF",
+    "sha256": "499ce7c3091a3b0af790f11076e3bf81280126a7de7252d192ec45f89a82934f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/CONN/VLTAB53.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/CONN/VLTAB53.MDX",
+    "sha256": "0faa05cab8385a886cb8969d2e86ac8a29099da3655e93a44bdc6e9446e80e3e"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/141099_1.txt",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/141099_1.txt",
+    "sha256": "31efe91c74e565ecf33e82189fcf55d2001939569bc0b20588355d02d06c9dae"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/141099_1_dp_asi.txt",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/141099_1_dp_asi.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/Font_1",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/Font_1",
+    "sha256": "5529e7d3e3a87dcc1b228537f680c59c47cf9d658d0efb328d0d0f02ea4d614a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/Font_2",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/Font_2",
+    "sha256": "8711877c5394fa38952b24753d4860d9700ee9cee65bc7038a33a49d1eb0c30c"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/Language",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/Language",
+    "sha256": "91133aba771b538772f895c781d3536f01b23d515dbc73a9e6ea58b056a98a31"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/PROJECTVERSION.umf",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/PROJECTVERSION.umf",
+    "sha256": "370b939b9e4363efedde2483de0337608128e796c13c76e5c47ecd1f22001ba1"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/S7hCompressedMetadata.cmf",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/S7hCompressedMetadata.cmf",
+    "sha256": "00f1ccdb190f607f87392b33f6c39aa7f43445a599d8ed52257611deca66d4c7"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/Global/S7hMetaData.umf",
+    "repository": "exercises/03-traffic-light-control/native/Q3/Global/S7hMetaData.umf",
+    "sha256": "9af21e9043ad8f4033150ebb540345ac9fcaf156682ff1d58673b58ebfcfb974"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/lastrsf.res",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/lastrsf.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/lastrsn.res",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/lastrsn.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/linkhrs.lnk",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/linkhrs.lnk",
+    "sha256": "3670d8180ad713b1c110241efd43ae1f4dc3da6240afa300d571af2dd023e2fe"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/rsflock.res",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/rsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/rsnlock.res",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/rsnlock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/S7RESOFF.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/S7RESOFF.DBF",
+    "sha256": "9217bba56bf8cf2ec8dee5b739ce6d34678decc27d1669bedda00400290b84b6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/S7RESOFF.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/S7RESOFF.MDX",
+    "sha256": "ed8f655e3c97c5f95714593b6ea4e5074ad9cd882bd6a2135a2bcaedb46d4188"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/S7RESONL.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/S7RESONL.DBF",
+    "sha256": "a3ae5ffc1e8f87d927440a314b54f8df6bfae04dcece548b9b399f598c1a9c9b"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hrs/S7RESONL.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hrs/S7RESONL.MDX",
+    "sha256": "b81c46dd36ee3bd091403ece8e5ebe2fc059bd0d97fb88746a015d8ec952adc3"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/omgd/gdflock.res",
+    "repository": "exercises/03-traffic-light-control/native/Q3/omgd/gdflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/omgd/lastgd",
+    "repository": "exercises/03-traffic-light-control/native/Q3/omgd/lastgd",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/omgd/S7GD.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/omgd/S7GD.DBF",
+    "sha256": "b58de86c357bb8c929c5413f20b4d4115ec2977e5bc7b200242e413814240d8f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/omgd/S7GD.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/omgd/S7GD.DBT",
+    "sha256": "91904db1fc9357861950c300ad0e1f39f1e88114bc2067ac2840a862f4bc7f2b"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/omgd/S7GD.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/omgd/S7GD.MDX",
+    "sha256": "fda149ed54a5c4482b2266c1da771656854e96d24f3f9e9fc90618f46d6f0492"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/pgs/gsflock.res",
+    "repository": "exercises/03-traffic-light-control/native/Q3/pgs/gsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/pgs/lastgs",
+    "repository": "exercises/03-traffic-light-control/native/Q3/pgs/lastgs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/pgs/S7GS.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/pgs/S7GS.DBF",
+    "sha256": "ee8f9f74acc415b9580761bea431d99052586422ddb40929b2a6ff2b817829db"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/pgs/S7GS.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/pgs/S7GS.MDX",
+    "sha256": "36cacd1fffb1c6816189e58ac3b4915d5e7abf5844b52d47ae7e61fde731bb22"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/s7cntID.src",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/s7cntID.src",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/S7CNTREF.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/S7CNTREF.DBF",
+    "sha256": "603e15584d187a7f33394abdd2a4e88014018da1f4afb4489138779aec1c4346"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/S7CNTREF.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/S7CNTREF.MDX",
+    "sha256": "356f1af640d8e80ecfe72652d71156df312ddd5d4bc57969fae4950d20a5aa28"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/s7contai.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/s7contai.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/S7Netze/S7NONFGX.id",
+    "repository": "exercises/03-traffic-light-control/native/Q3/S7Netze/S7NONFGX.id",
+    "sha256": "26b25d457597a7b0463f9620f666dd10aa2c4373a505967c7c8d70922a2d6ece"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/S7Netze/S7NONFGX.lnk",
+    "repository": "exercises/03-traffic-light-control/native/Q3/S7Netze/S7NONFGX.lnk",
+    "sha256": "f2b84015cbd062342bd85a0dd7e1533dc69e697d8244e8946121cd04f02fbcc3"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/S7Netze/S7NONFGX.tab",
+    "repository": "exercises/03-traffic-light-control/native/Q3/S7Netze/S7NONFGX.tab",
+    "sha256": "37302183600a30f7491c1c376eac21b43af55cb8f166a44b5d125a68f0511b88"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/S7NFREMX/S7NFREMX.tab",
+    "repository": "exercises/03-traffic-light-control/native/Q3/S7NFREMX/S7NFREMX.tab",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/S7PPLOMX/layout",
+    "repository": "exercises/03-traffic-light-control/native/Q3/S7PPLOMX/layout",
+    "sha256": "d577c76ab05b00d42ddedfc7f56e102a5beab383b1e1188705b222cbf498ce4a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/S0112001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/S0112001.DBF",
+    "sha256": "b0e575936129b6a262fce148f3446ff011ee1a32713e00bcf68bb07963f1ff7f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/S0112001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/S0112001.MDX",
+    "sha256": "91bddd63741875a1b544723254e7953f48092371c41860fc9ad2550aca75c129"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/sdblast.id",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/sdblast.id",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/sdblock.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/sdblock.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/BS000001.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/BS000001.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/BS112001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/BS112001.DBF",
+    "sha256": "4b095de2beef18009c48be0aec9fab5d7ed841cc6a9e38fec34f45d6255972b0"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/BS112001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/BS112001.MDX",
+    "sha256": "32931d621ff97423b72ad9aa2252765dbe5090877dbba4944d87d46a6bbef319"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/BSlstlck.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/BSlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/BstlID.ubs",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/BstlID.ubs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/CT112001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/CT112001.DBF",
+    "sha256": "cbf53c696aad27f2c210ae5cbfd8c2a8b6a4a7e4206a22c5ee74b5b156e51fe0"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/CT112001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/CT112001.MDX",
+    "sha256": "344d8f263c5c99aa9a1804fe4e57dcef4439c78a749514be1489f7487bcad774"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/CtlistID.uct",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/CtlistID.uct",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/CTlstlck.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/CTlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/XR112001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/XR112001.DBF",
+    "sha256": "c6162379de33ba8333359549a3753ec8b8085ddc228e75de9661f31714b7eee3"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/XR112001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/XR112001.MDX",
+    "sha256": "ee47f0d8ff3a8da4b7cc306ba27ee88afbb790a1aeac8c8b4f47aea03240dc79"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/XRlistID.uxt",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/XRlistID.uxt",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/XRlstlck.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/XRlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/YDBs/SYMLISTS.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/YDBs/SYMLISTS.DBF",
+    "sha256": "e849438cf4851cd92762e81017539f9c56b07c62a59e23d27b53266edb0fc72c"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/YDBs/SYMLISTS.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/YDBs/SYMLISTS.MDX",
+    "sha256": "73ecbbd3d4251ba5c524a3b18a5e24cdaedfaebbe03a1512265b6326d5132262"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/YDBs/YLNKLIST.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/YDBs/YLNKLIST.DBF",
+    "sha256": "7a2d6fd48cb4996f6f767f971fb655e2267fbe145e6613ea0e1f289bfda886a6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "sha256": "693d471765be891fed11998df68610e5cf5a0cd86b3090ea8d7b8ad7c163a86f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "sha256": "4933077431043ca6183826b26c7133607d79094dde4e5abc044501d46d19e4c0"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "sha256": "292f7355a914fba008bd65ec8ca8ef88d937ee638a785d22a9d742656550f12a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "sha256": "ffa9cbcdbc80116e2a9601d5fdc61c5fb33483d2de3450bd62bd7dc74d556778"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "sha256": "d93ea6e92036ed1817f69352c5248ce4cd7375a315c6312b454d79040439889d"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "sha256": "aea3995ba71de46a5e0db1542f3d88e76a6ba654fc1f7fde4d9db4488f9008d3"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "sha256": "01b319777f6e31516506e54b06661c86ef5e0cb27c4c59275ed19fd0a08a13aa"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/hLockID1",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "sha256": "262a7a08fbc110e413bf6f424c5353a53163ce29c0b992bfb6e4b51bfb897884"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "sha256": "5c733fe9ec97ccf978f01f1d4827906e9cd3184a0e4300b592ed187f2800feb7"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "sha256": "3dd6d806870ac270e992f81a8a4c5b459d9a4f446f5f144ff4d2ad1124c550fd"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "sha256": "256b3798efd19507c787d968c588484da84042dae0f3f8fc115393f3d31574ec"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "sha256": "2a0ab8bb3345efc3e2dc451755ce8f79bb75a2ee84c9b3a00ff38460f9298b7b"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "sha256": "b268c8751b6232e6b5a949c207d51183b290f2fd8404c5d6fd4509cbb872f3f9"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "sha256": "ffa9cbcdbc80116e2a9601d5fdc61c5fb33483d2de3450bd62bd7dc74d556778"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "sha256": "d37fe84ec06c6a6b6129b7d2687d5b0d4ae2f4813907389cc52ac8b2af1eee00"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "sha256": "76f0fef820b6bb72e937fe8ff92360a132641f7398a53863619c7991e4737db7"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "sha256": "0e1a1eb900e2ee895bf88ac190c3a41ce872ff6a27f35a9ab8f13416278e7c7f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/hLockID1",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "sha256": "3790de532c686c574629eadad3cf4e2cc5e96d289fd882bc576bb599bf8f2bc0"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "sha256": "8fb848a9d8f07e13c6655fa519ceede0a56b453409861342f700213aeef9634f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "sha256": "26324cf5c38c61a23e9ceb976da91cbc37013c22cbbb7cec61685695124751e4"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "sha256": "3fc059351a03bf1f4c8d2555cf3d701f1f2cf2767f7c94d0de74e1f69a62a252"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "sha256": "0f46aea6bcec35b7fc4a802be3e47520f5bbfb162e7d5469b52a15d92fc58428"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "sha256": "53176266c6208eba6fb95228e15a2bde6e2ff9bf4578b4ebb60742b8525023a2"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "sha256": "416c03000a4e926e4fa52fab1c5ef2425ca3d05544235420f1ea5cfc588bf2a2"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "sha256": "ef29a09b8662a1fd4d13c894dbd5660ef0902073877ae532440cd4f359140c07"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "sha256": "f68ab3b330d3adfe695d72cad054e29a4775599a1bf1ab1a8134d6817d1fc9b7"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "sha256": "76f3b1c4e31dc2f01223e53a1e9b88e96518a456debb5c15684f6059bde5fc14"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/hLockID1",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "sha256": "93a668515bf53493d97d0416cbf0edb6b0645e14a7ce41b739ed88d324e3a5a6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "sha256": "6f56d6421de22eabb17884bf12ded7b434d8307d7fd7963349873e0696ccff07"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "sha256": "5d196d6aba593086010de7d379fedcb65735f59ece38fd61dcafe3110f53ecfb"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "sha256": "a081020ab49296d6da0d652ede5e4ff3fa32c45dba275c0d217b83165d09e1af"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "sha256": "739f0e626c48e60730812fd4a0fcdb93fb7fc76b0a17eeaa8daa05c884490920"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "sha256": "3f0e9da43196a0e661c3cac4a47c984dd82148a7dadcf8ff0aca703d5f161bef"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "sha256": "8148278e5b5e13757f8cb86eae311300316dc97ae3a6ce01635cee48d2a3b16a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "sha256": "0a8dbd99288e91ec765e722f520dcda8402af1868bc64dac44ff3b075435516d"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "sha256": "0de658d1d9953d138dcf74b45246a42b971d5aaa361c32503a9718ecf9d00dc4"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "sha256": "f2f4c8d26edfd6b279615e534aad2e7b6e3909ec5e4e567f17542468b4b2944a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "sha256": "5a51d72986b34c7b795031d297310c550dd2e1eec709a113663b3c7780c759f2"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "sha256": "d90379dd8cc05ef550a6832c73868a7e30582c041ea4f7ef11a208892ed3a07d"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/hLockID1",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "sha256": "11bf6a8b20c1990db94df78dcd2cbc7d0b46c247d8c1d9f058c0773e7412a0ce"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "sha256": "ed5bb51ef516a637eb2756ca7f214e37c6b1e60cab72234dd4f099fce8d06bf5"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "sha256": "0a0f91c98a5f134cb1e3e9380e2ad4e0cc46630e9a775a436e36d806c56b96e1"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "sha256": "3d753838dd79bc4374b60b638a6078723732ae30935f83cb2783531283c5fefd"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "sha256": "615fce2bb15a9bab23a42bad761b5b0df080f2ccb6a7e5e4741bcc5842308b9a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "sha256": "8b3b89f076cd44f1bd1b46720fd3da23fe5c4a907f7cf8d4534407689f03003e"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "sha256": "3f0e9da43196a0e661c3cac4a47c984dd82148a7dadcf8ff0aca703d5f161bef"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "sha256": "c5082df1b1ebebd1b1e703909f9b2e0fa52ad6c6e7303b504ca25439ed18dafc"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "sha256": "fc65f9679634cd8446afec0b0799186245f0e7d613ba2ef5f785aae1e5adf869"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "sha256": "5477e2c6f0dcb24096d556d9148b04a2e201e7fd142aa94076132e44829e7e32"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "sha256": "af189cfedf80d2adebb1d712fa4172d962654567f26286c2f3d428841a46c64c"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "sha256": "a97782ef81d01bf694e96c305911b744c0d9d678ca28b427620ac1dee00f4097"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "sha256": "d90379dd8cc05ef550a6832c73868a7e30582c041ea4f7ef11a208892ed3a07d"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/hLockID1",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "sha256": "db3a2621130c3f3f8773f9ffbc21684f40294245526c747e53cef5fc128ba3c9"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "sha256": "ed5bb51ef516a637eb2756ca7f214e37c6b1e60cab72234dd4f099fce8d06bf5"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "sha256": "6803a1918e964a6ca3b845335b1d28655673924fce02adf10ea97d15791eb40f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "sha256": "76042c951f2acea490c90b255eb6198fba8e72bb5ddc4ad9f7421ee7b718167a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/1.s7h",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/1.s7h",
+    "sha256": "9aceb20ac07e6f1f9f4622ff411a617d63aeab7e94dd581b2ecea768ea8ebb82"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "sha256": "ac45595cd3ef6c49a27583d0fdf0e59474ee3795dbd2e3ae8ad7625388174855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "sha256": "31b8bffae19dd2946b96403a3d19c1e3db19faf08ae03fb2ff4db7f9c96c12e6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "sha256": "42319b5bb19badb474cb49556eb0900181d0c44a2ff77c8b26f35cd9b7f31f97"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "sha256": "b886c80b860a0346a44360dbf6d495d940098f0952767cfdc1ce729a9e50dff7"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "sha256": "c41621590c6f52619250425e4d905cd40b8dd6022a87953893da2147ac4f9b30"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "sha256": "9c4597338b1d4b1165dad505000ae426eff2159aab11f283e3ceabc7bad39c4c"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "sha256": "2625f255a66973b931268a989edaa66ba165b1c41b1fbc01239e894de2213aec"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "sha256": "958abac81d1f08a3164787906498e3b77736e6df735ed7b00badb5de990aedb0"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "sha256": "0d1d5811bd6f030c2a440e75d0c7c6028f9776baccc06bd2bc69c26eabf24ca1"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "sha256": "56f0a1222e1ebd86a641a0d9c4e1dd719acd90b41dc8abc5a9fb81fe90554084"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "sha256": "607a296c443e94495839871254efc5c3ea6bf867c4a7bff3c5d6ed5a84d09eeb"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "sha256": "c63999af43a94c32e7b95d69a9377b64d39abcb53c3d66fde3a719ab27a698e8"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/hLockID1",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "sha256": "02ff124f02dac1ed5139525913c1562c830c725aded1f4165d99482a31fa6870"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "sha256": "5f9c583b1ceeb5e06be9626b6125dd2647994ae3ee1c4a26e42b119f2ca691a6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "sha256": "4fe090338308e8bcc031584eab139aeeaa242b875534d9c5dc562ed266edaa2a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "sha256": "deafae0573fe2e95e7d157b7b5cd1e961798635f387a9f6d5d751ef54c5180a6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/BSTCNTOF.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/BSTCNTOF.DBF",
+    "sha256": "ea185e297ed8d39ed7ff300f5631501fc4a651d092157164467ea8fb679d52b3"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/bstcntof.id",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/bstcntof.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/bstcntof.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/bstcntof.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/BSTCNTOF.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/BSTCNTOF.MDX",
+    "sha256": "6fb573b88ebd6cc44b718438e1240fc2f714ec85e10cdc8c25556d812cdb785c"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/online/BSTCNTON.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/online/BSTCNTON.DBF",
+    "sha256": "4110b840b9e278212eea20221b1c638712f9c1859309b91051034388a2199fa8"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/online/bstcnton.id",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/online/bstcnton.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/online/bstcnton.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/online/bstcnton.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/online/BSTCNTON.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/online/BSTCNTON.MDX",
+    "sha256": "1bb5f6b1b7df86b34483068f5896913d0c251a951bb78fd9493bc7aec158e498"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/online/links.lnk",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/online/links.lnk",
+    "sha256": "7d0936a2a451aaab8b94641355080bee608a8d36b5477521c09ec24ddcb60707"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "sha256": "23c7bc0de2ad5acad7663ec2bd21a149d421eb1062f09a9f767146e332e07621"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "sha256": "528f3d076c7e9d38f52c7243b04e927bed85210ef3636b514a404c9fcec1cf6f"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/baustein.id",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/baustein.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/baustein.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/baustein.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "sha256": "51d903e213ac6905e4c0f3eec7a2746c7875628d9d0811fdbc9328d6cdae11ca"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/links.lnk",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/links.lnk",
+    "sha256": "36d1892ab7e378ad69ffbcb6f97bca865382251848fbf36dc93d12437c9c0db6"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/SUBBLK.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/SUBBLK.DBF",
+    "sha256": "2dd60bf3ce2e34b394e3ea44c006a3dd79b7d75fb0f684ac9f631928e0d06e73"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/SUBBLK.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/SUBBLK.DBT",
+    "sha256": "5610c46ab69fe9cc2251ed156b6dc514a9c1b955e5d447b7dc22d374c1fa115a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/ombstx/offline/00000001/usfapx.ini",
+    "repository": "exercises/03-traffic-light-control/native/Q3/ombstx/offline/00000001/usfapx.ini",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/omgd/linkgd/00000001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/omgd/linkgd/00000001.DBF",
+    "sha256": "0333843f4f187c9428b34f1ed21ce1d11f780cee2edffa4070223b7e6544b98a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/pgs/linkgs/00000001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/pgs/linkgs/00000001.DBF",
+    "sha256": "0cb3166e26c4d155865143696885432ccf0a40bece8317ddb8803a4193bf0236"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/00000001/S7CONTAI.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/00000001/S7CONTAI.DBF",
+    "sha256": "5ecc7ea4aaf3ddb852c1b390ce1b5c7d1191c16294b971e971b61076e16d0419"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/00000001/S7CONTAI.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/00000001/S7CONTAI.MDX",
+    "sha256": "d01846c51b1ce4eb6c143002bce5e3928f5e423e53c14b79bdd4f71caabeb1df"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/00000001/S7LINKS.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/00000001/S7LINKS.DBF",
+    "sha256": "166d85d96b54089ce32dc409aad9616a2ce9504128cb8bbe412fdc918c886178"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/s7asrcom/00000001/s7source.lck",
+    "repository": "exercises/03-traffic-light-control/native/Q3/s7asrcom/00000001/s7source.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/00000006.PG",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/00000006.PG",
+    "sha256": "459eb5cc16b15142c41cc1cc92ef7dbe8a2a3c65d004bfd642d03fd6e3f23fcd"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/00000007.PG",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/00000007.PG",
+    "sha256": "e762855f7d5f692d82e0dc0e11d9301a0885986a6225726a81ee9a5049fe6cc0"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/00000008.PG",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/00000008.PG",
+    "sha256": "407d79197f3b226ddc36c4c482d9922ccbf87687f2bcbbecad8c5de07dc2b375"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/00000009.PG",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/00000009.PG",
+    "sha256": "a1c8df8880604be3c2b62305adce8d230f378cfcd15e0f10b13502bebbbb635b"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/0000000a.PG",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/0000000a.PG",
+    "sha256": "db5617c4b87110f03cf34d9800ef48685b4f40fbb258615edc8061bd19622e30"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/link/00000001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/link/00000001.DBF",
+    "sha256": "01093969b1b9b38c9df680fc9085a0c3a0c98a2347dceaba36f6cec44472f6a2"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/list/00000001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/list/00000001.DBF",
+    "sha256": "62ef3534b88b567ef3e8fd1d9db8c98c7df9f68271015343fcf5da9d6dd82493"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/sdb/00000001/list/00000001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/sdb/00000001/list/00000001.MDX",
+    "sha256": "2541254c6ed0fc8eca9dbaec37a7aa9028a04f5d3ff142c0ebdc33eab747dd40"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/links/BSL00001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/links/BSL00001.DBF",
+    "sha256": "e12921baa9bc72035f2cd35283f49b275e1ea0d92e54e250db1d712ae7597790"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/links/CTL00001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/links/CTL00001.DBF",
+    "sha256": "9184e1a7735a7eddbe76ea2ad013cc713ba2aee7ac80abaa58535ac0462fe212"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/links/XRL00001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/links/XRL00001.DBF",
+    "sha256": "033d8c216870093317a497ec217aa1f8569d09b3340e168f756dbfab1844812b"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/listen/BS000001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/listen/BS000001.DBF",
+    "sha256": "4c83586ffa3634ad3a3fdfc828457efc22452e95c6916e9a1344264fc645fce1"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/listen/BS000001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/listen/BS000001.MDX",
+    "sha256": "25e0c36ec8dc6b46148ca30d688e8a2992a6feaecd77ec65010bb8e53bc71485"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/listen/CT000001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/listen/CT000001.DBF",
+    "sha256": "e3b4b9299e2bdd6e2d53edd792597b32ca903fa2fed15be63f3720ac5e0ab563"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/listen/CT000001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/listen/CT000001.MDX",
+    "sha256": "04c564cb5f85d8296a9dde35bedc5c3e066ee0829ad41cc677d83bfec77f8716"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/listen/XR000001.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/listen/XR000001.DBF",
+    "sha256": "e0b1c0cec33538a17d1dae3807cf56794f7c98886746ed85520b45fa0fe77a73"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/listen/XR000001.DBT",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/listen/XR000001.DBT",
+    "sha256": "12dd17447d9b6c1b6bf2cb1525dda6c7e6d88deb88b38dd1fd14e885116ebc75"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/XUTILS/listen/XR000001.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/XUTILS/listen/XR000001.MDX",
+    "sha256": "d1e010dac8ce75377aa5679f233f678abb5dc16d9b2abee008b9ca1f2661234a"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/YDBs/7578/SYMLIST.DBF",
+    "repository": "exercises/03-traffic-light-control/native/Q3/YDBs/7578/SYMLIST.DBF",
+    "sha256": "64c48184b22d5db57c978e2bfe67c4176666273778b03f26b1ca671eb7c71bde"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/YDBs/7578/Symlist.id",
+    "repository": "exercises/03-traffic-light-control/native/Q3/YDBs/7578/Symlist.id",
+    "sha256": "84fc05949dc1e486652a4ed316afb6434e9437eb30b714594a1d0b4205776602"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3/YDBs/7578/SYMLIST.MDX",
+    "repository": "exercises/03-traffic-light-control/native/Q3/YDBs/7578/SYMLIST.MDX",
+    "sha256": "6ddec6576e5a727aa702585e85a6ca88bbe9f59448234af5c257f905ff57d359"
+  },
+  {
+    "original": "Q3(Mideterm)/Q3.pdf",
+    "repository": "exercises/03-traffic-light-control/ladder-logic.pdf",
+    "sha256": "088c476d9d4fe114331eae2298e50a5af5e9180161f6044fc6ba8887943cf44d"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/link.lnk",
+    "repository": "exercises/04-box-classification/native/Q4/link.lnk",
+    "sha256": "3a24baf7d8bb979906fc2c08c1959477e2def9c68e07d72b36426e9fef4a3ae9"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Q4.s7p",
+    "repository": "exercises/04-box-classification/native/Q4/Q4.s7p",
+    "sha256": "0498f3cd33c69f7c6eb09d067c2f4aeea49ba8436524924b01a5e806ca109b6d"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Q4.S7S",
+    "repository": "exercises/04-box-classification/native/Q4/Q4.S7S",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ApiLog/lock",
+    "repository": "exercises/04-box-classification/native/Q4/ApiLog/lock",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ApiLog/LogIDs",
+    "repository": "exercises/04-box-classification/native/Q4/ApiLog/LogIDs",
+    "sha256": "c5b2e76e0be88460999f2083c6197da41daa3732375dabd7f0237c8eec0e395a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ApiLog/Step7Bas.ver",
+    "repository": "exercises/04-box-classification/native/Q4/ApiLog/Step7Bas.ver",
+    "sha256": "f228f67c8d022415fb70a8eec33c0c475cdd9ab7f74530cb8d0a221ccff10435"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ApiLog/Types",
+    "repository": "exercises/04-box-classification/native/Q4/ApiLog/Types",
+    "sha256": "426bc7a2205951f7b8dad35e07bf8d621f45139f9e28814ccd70b7e9df9d6276"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/CONN/LINKVL.dbf",
+    "repository": "exercises/04-box-classification/native/Q4/CONN/LINKVL.dbf",
+    "sha256": "d1861d7087999cd2886a087c53ab88f68fb09818aebded137f98889618493fe4"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/CONN/LOCKVL.LCK",
+    "repository": "exercises/04-box-classification/native/Q4/CONN/LOCKVL.LCK",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/CONN/VERBLIST.PRO",
+    "repository": "exercises/04-box-classification/native/Q4/CONN/VERBLIST.PRO",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/CONN/VERBTAB.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/CONN/VERBTAB.DBF",
+    "sha256": "24f6b346e7add87666724b14054f3880119db0af2e10168d7009d9ed446000a1"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/CONN/VERBTAB.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/CONN/VERBTAB.MDX",
+    "sha256": "63090212cd9ce1985cfa43684a4843e4df5947a9198708705d78648a57d1b76e"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/CONN/VLTAB53.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/CONN/VLTAB53.DBF",
+    "sha256": "499ce7c3091a3b0af790f11076e3bf81280126a7de7252d192ec45f89a82934f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/CONN/VLTAB53.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/CONN/VLTAB53.MDX",
+    "sha256": "0faa05cab8385a886cb8969d2e86ac8a29099da3655e93a44bdc6e9446e80e3e"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/141099_1.txt",
+    "repository": "exercises/04-box-classification/native/Q4/Global/141099_1.txt",
+    "sha256": "fe9f73915adce161fe769d199edbf1ffc2589d76da63fd74d4ddd1b13ef42432"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/141099_1_dp_asi.txt",
+    "repository": "exercises/04-box-classification/native/Q4/Global/141099_1_dp_asi.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/Font_1",
+    "repository": "exercises/04-box-classification/native/Q4/Global/Font_1",
+    "sha256": "5529e7d3e3a87dcc1b228537f680c59c47cf9d658d0efb328d0d0f02ea4d614a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/Font_2",
+    "repository": "exercises/04-box-classification/native/Q4/Global/Font_2",
+    "sha256": "8711877c5394fa38952b24753d4860d9700ee9cee65bc7038a33a49d1eb0c30c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/Language",
+    "repository": "exercises/04-box-classification/native/Q4/Global/Language",
+    "sha256": "91133aba771b538772f895c781d3536f01b23d515dbc73a9e6ea58b056a98a31"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/PROJECTVERSION.umf",
+    "repository": "exercises/04-box-classification/native/Q4/Global/PROJECTVERSION.umf",
+    "sha256": "370b939b9e4363efedde2483de0337608128e796c13c76e5c47ecd1f22001ba1"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/S7hCompressedMetadata.cmf",
+    "repository": "exercises/04-box-classification/native/Q4/Global/S7hCompressedMetadata.cmf",
+    "sha256": "2a6cd0b566bf9c8fe7ca01b2c9b4f12d78d7c1351b79698b9b14bce4d6a443ba"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/Global/S7hMetaData.umf",
+    "repository": "exercises/04-box-classification/native/Q4/Global/S7hMetaData.umf",
+    "sha256": "a7f949dd3ef9f77a32445ca7e49998feabd4050212b75b962f9194b1aff340bf"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/lastrsf.res",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/lastrsf.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/lastrsn.res",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/lastrsn.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/linkhrs.lnk",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/linkhrs.lnk",
+    "sha256": "051f62f617200a297168f5937ba4dec54e3973c82fa9a76865f5aef02dbb8115"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/rsflock.res",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/rsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/rsnlock.res",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/rsnlock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/S7RESOFF.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/S7RESOFF.DBF",
+    "sha256": "8bd07064bf90bc4315d828d6ea112603c987f4fa78f40d899c61c15128c73d3c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/S7RESOFF.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/S7RESOFF.MDX",
+    "sha256": "ed8f655e3c97c5f95714593b6ea4e5074ad9cd882bd6a2135a2bcaedb46d4188"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/S7RESONL.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/S7RESONL.DBF",
+    "sha256": "7ed6a48488f44f8533969876d3b07c7ce5a06df96e7894936ecb69436c612fed"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hrs/S7RESONL.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hrs/S7RESONL.MDX",
+    "sha256": "b81c46dd36ee3bd091403ece8e5ebe2fc059bd0d97fb88746a015d8ec952adc3"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/omgd/gdflock.res",
+    "repository": "exercises/04-box-classification/native/Q4/omgd/gdflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/omgd/lastgd",
+    "repository": "exercises/04-box-classification/native/Q4/omgd/lastgd",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/omgd/S7GD.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/omgd/S7GD.DBF",
+    "sha256": "ba1cdf948027a757cee460e65f90f9c2faea442be1444c8fcb6e41ef79b1653b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/omgd/S7GD.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/omgd/S7GD.DBT",
+    "sha256": "91904db1fc9357861950c300ad0e1f39f1e88114bc2067ac2840a862f4bc7f2b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/omgd/S7GD.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/omgd/S7GD.MDX",
+    "sha256": "fda149ed54a5c4482b2266c1da771656854e96d24f3f9e9fc90618f46d6f0492"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/pgs/gsflock.res",
+    "repository": "exercises/04-box-classification/native/Q4/pgs/gsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/pgs/lastgs",
+    "repository": "exercises/04-box-classification/native/Q4/pgs/lastgs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/pgs/S7GS.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/pgs/S7GS.DBF",
+    "sha256": "36df3cc8d08e10866e2e30cb92c00203d34b570b91749e592eca6a387bbc9f96"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/pgs/S7GS.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/pgs/S7GS.MDX",
+    "sha256": "36cacd1fffb1c6816189e58ac3b4915d5e7abf5844b52d47ae7e61fde731bb22"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/s7cntID.src",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/s7cntID.src",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/S7CNTREF.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/S7CNTREF.DBF",
+    "sha256": "2b1af79fdf651b9b52d8ed8fb2e4f911ff514fc12699f785d170638a97087bd9"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/S7CNTREF.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/S7CNTREF.MDX",
+    "sha256": "356f1af640d8e80ecfe72652d71156df312ddd5d4bc57969fae4950d20a5aa28"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/s7contai.lck",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/s7contai.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/S7Netze/S7NONFGX.id",
+    "repository": "exercises/04-box-classification/native/Q4/S7Netze/S7NONFGX.id",
+    "sha256": "26b25d457597a7b0463f9620f666dd10aa2c4373a505967c7c8d70922a2d6ece"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/S7Netze/S7NONFGX.lnk",
+    "repository": "exercises/04-box-classification/native/Q4/S7Netze/S7NONFGX.lnk",
+    "sha256": "6beadd857686343665ee2d4da6badde8373596fc2e9a09931e091d219305c99e"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/S7Netze/S7NONFGX.tab",
+    "repository": "exercises/04-box-classification/native/Q4/S7Netze/S7NONFGX.tab",
+    "sha256": "a277622cb6e5a826a47a015944451772dd7f04172b7c312d62a084f4f57c9ead"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/S7NFREMX/S7NFREMX.tab",
+    "repository": "exercises/04-box-classification/native/Q4/S7NFREMX/S7NFREMX.tab",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/S7PPLOMX/layout",
+    "repository": "exercises/04-box-classification/native/Q4/S7PPLOMX/layout",
+    "sha256": "d577c76ab05b00d42ddedfc7f56e102a5beab383b1e1188705b222cbf498ce4a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/S0112001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/S0112001.DBF",
+    "sha256": "b6f3a63456f5100cceaae8b2b1d03584020387169d9634a50f1e19d45b839164"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/S0112001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/S0112001.MDX",
+    "sha256": "91bddd63741875a1b544723254e7953f48092371c41860fc9ad2550aca75c129"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/sdblast.id",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/sdblast.id",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/sdblock.lck",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/sdblock.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/BS000001.lck",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/BS000001.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/BS112001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/BS112001.DBF",
+    "sha256": "5e05c37b21d50d66a09ea6e79d549287e31c2f2c31014cb785191eec634a5f5b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/BS112001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/BS112001.MDX",
+    "sha256": "32931d621ff97423b72ad9aa2252765dbe5090877dbba4944d87d46a6bbef319"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/BSlstlck.lck",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/BSlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/BstlID.ubs",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/BstlID.ubs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/CT112001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/CT112001.DBF",
+    "sha256": "23173441fff5e6320c6c136249a29838daf897aa46806ac2765e50a4929330a4"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/CT112001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/CT112001.MDX",
+    "sha256": "344d8f263c5c99aa9a1804fe4e57dcef4439c78a749514be1489f7487bcad774"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/CtlistID.uct",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/CtlistID.uct",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/CTlstlck.lck",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/CTlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/XR112001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/XR112001.DBF",
+    "sha256": "1889970b0503bba655a2ff1d2133ec50fce8810f56f2e63b0b40fb71c5cc5d2b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/XR112001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/XR112001.MDX",
+    "sha256": "ee47f0d8ff3a8da4b7cc306ba27ee88afbb790a1aeac8c8b4f47aea03240dc79"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/XRlistID.uxt",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/XRlistID.uxt",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/XRlstlck.lck",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/XRlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/YDBs/SYMLISTS.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/YDBs/SYMLISTS.DBF",
+    "sha256": "cb95309ba508a48fa3f0c724180d2454ff7ba4e84d5181fbda4c9c99af9bf612"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/YDBs/SYMLISTS.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/YDBs/SYMLISTS.MDX",
+    "sha256": "2e251cd2f62a521fac9a31f990708fcd6e8429ca019bb72680e9e0fe2a616b30"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/YDBs/YLNKLIST.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/YDBs/YLNKLIST.DBF",
+    "sha256": "fd7bdf9bbe7ea743bd0e0b4e91509d07067489d0fffb0aed5517b4dd6d18f5a2"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "sha256": "693d471765be891fed11998df68610e5cf5a0cd86b3090ea8d7b8ad7c163a86f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "sha256": "48593a32aee09595435fd55d864b1df263065fb3488aaf7a8f579c9d2be2a217"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "sha256": "292f7355a914fba008bd65ec8ca8ef88d937ee638a785d22a9d742656550f12a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "sha256": "ffa9cbcdbc80116e2a9601d5fdc61c5fb33483d2de3450bd62bd7dc74d556778"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "sha256": "d93ea6e92036ed1817f69352c5248ce4cd7375a315c6312b454d79040439889d"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "sha256": "aea3995ba71de46a5e0db1542f3d88e76a6ba654fc1f7fde4d9db4488f9008d3"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "sha256": "01b319777f6e31516506e54b06661c86ef5e0cb27c4c59275ed19fd0a08a13aa"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/hLockID1",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "sha256": "3c3e9611d4e6bf9150db469c8262ce8286b0eeb68acbbb05ede9015b6ebc548c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "sha256": "5c733fe9ec97ccf978f01f1d4827906e9cd3184a0e4300b592ed187f2800feb7"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "sha256": "3dd6d806870ac270e992f81a8a4c5b459d9a4f446f5f144ff4d2ad1124c550fd"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "sha256": "256b3798efd19507c787d968c588484da84042dae0f3f8fc115393f3d31574ec"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "sha256": "2a0ab8bb3345efc3e2dc451755ce8f79bb75a2ee84c9b3a00ff38460f9298b7b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "sha256": "b268c8751b6232e6b5a949c207d51183b290f2fd8404c5d6fd4509cbb872f3f9"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "sha256": "ffa9cbcdbc80116e2a9601d5fdc61c5fb33483d2de3450bd62bd7dc74d556778"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "sha256": "d37fe84ec06c6a6b6129b7d2687d5b0d4ae2f4813907389cc52ac8b2af1eee00"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "sha256": "76f0fef820b6bb72e937fe8ff92360a132641f7398a53863619c7991e4737db7"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "sha256": "0e1a1eb900e2ee895bf88ac190c3a41ce872ff6a27f35a9ab8f13416278e7c7f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/hLockID1",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "sha256": "88b1c61a6fdbae3697f5ad8c694bb75376ee55642b4758a2c17a6d532f632663"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "sha256": "8fb848a9d8f07e13c6655fa519ceede0a56b453409861342f700213aeef9634f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "sha256": "26324cf5c38c61a23e9ceb976da91cbc37013c22cbbb7cec61685695124751e4"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "sha256": "3fc059351a03bf1f4c8d2555cf3d701f1f2cf2767f7c94d0de74e1f69a62a252"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "sha256": "0f46aea6bcec35b7fc4a802be3e47520f5bbfb162e7d5469b52a15d92fc58428"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "sha256": "173f6e27f500fb2c6b15ef384ca9d71d1078606e2679de6ebff5424e9fb3a0c8"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "sha256": "416c03000a4e926e4fa52fab1c5ef2425ca3d05544235420f1ea5cfc588bf2a2"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "sha256": "ef29a09b8662a1fd4d13c894dbd5660ef0902073877ae532440cd4f359140c07"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "sha256": "f68ab3b330d3adfe695d72cad054e29a4775599a1bf1ab1a8134d6817d1fc9b7"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "sha256": "76f3b1c4e31dc2f01223e53a1e9b88e96518a456debb5c15684f6059bde5fc14"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/hLockID1",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "sha256": "97ec25b9485063cd4a30921b05585b99ed63ffaff3e878bcf520a105a0dbde48"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "sha256": "ee8965a7407e193f9933d938d5e20b736fd8f4fc04b4f2511a6b6588ea65911b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "sha256": "5d196d6aba593086010de7d379fedcb65735f59ece38fd61dcafe3110f53ecfb"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "sha256": "a081020ab49296d6da0d652ede5e4ff3fa32c45dba275c0d217b83165d09e1af"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "sha256": "ec905c184ac48c5f452ed4406a67d757e62af4b4348e41346712443715200a7f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "sha256": "3f0e9da43196a0e661c3cac4a47c984dd82148a7dadcf8ff0aca703d5f161bef"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "sha256": "8148278e5b5e13757f8cb86eae311300316dc97ae3a6ce01635cee48d2a3b16a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "sha256": "0a8dbd99288e91ec765e722f520dcda8402af1868bc64dac44ff3b075435516d"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "sha256": "0de658d1d9953d138dcf74b45246a42b971d5aaa361c32503a9718ecf9d00dc4"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "sha256": "fd4bb2e64d2c9e53ddf69d358bc2cf9b9d3294fc2c6a4a5d5306d9cf7e63b80b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "sha256": "5a51d72986b34c7b795031d297310c550dd2e1eec709a113663b3c7780c759f2"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "sha256": "d90379dd8cc05ef550a6832c73868a7e30582c041ea4f7ef11a208892ed3a07d"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/hLockID1",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "sha256": "4e50e72df6c855485538f6d12daf9532354d2294e5e1b2335a87502e64067273"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "sha256": "ed5bb51ef516a637eb2756ca7f214e37c6b1e60cab72234dd4f099fce8d06bf5"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "sha256": "0a0f91c98a5f134cb1e3e9380e2ad4e0cc46630e9a775a436e36d806c56b96e1"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "sha256": "3d753838dd79bc4374b60b638a6078723732ae30935f83cb2783531283c5fefd"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "sha256": "615fce2bb15a9bab23a42bad761b5b0df080f2ccb6a7e5e4741bcc5842308b9a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "sha256": "8b3b89f076cd44f1bd1b46720fd3da23fe5c4a907f7cf8d4534407689f03003e"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "sha256": "3f0e9da43196a0e661c3cac4a47c984dd82148a7dadcf8ff0aca703d5f161bef"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "sha256": "c5082df1b1ebebd1b1e703909f9b2e0fa52ad6c6e7303b504ca25439ed18dafc"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "sha256": "fc65f9679634cd8446afec0b0799186245f0e7d613ba2ef5f785aae1e5adf869"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "sha256": "5477e2c6f0dcb24096d556d9148b04a2e201e7fd142aa94076132e44829e7e32"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "sha256": "af189cfedf80d2adebb1d712fa4172d962654567f26286c2f3d428841a46c64c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "sha256": "a97782ef81d01bf694e96c305911b744c0d9d678ca28b427620ac1dee00f4097"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "sha256": "d90379dd8cc05ef550a6832c73868a7e30582c041ea4f7ef11a208892ed3a07d"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/hLockID1",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "sha256": "313094c3dab116ea1d1c2dba87546e66ec93aba457e07e1aa737dfcdd05fe3e0"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "sha256": "ed5bb51ef516a637eb2756ca7f214e37c6b1e60cab72234dd4f099fce8d06bf5"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "sha256": "c7c3ab492218854deb608417487ed679fabe67d9f79110bc827aebbc14436a9a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "sha256": "76042c951f2acea490c90b255eb6198fba8e72bb5ddc4ad9f7421ee7b718167a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/1.s7h",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/1.s7h",
+    "sha256": "ea1dfde520eb7d9aa52eafb196a2549392172dff21d499a6e602365fa4f4ce7f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "sha256": "ac45595cd3ef6c49a27583d0fdf0e59474ee3795dbd2e3ae8ad7625388174855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "sha256": "9d164d6d3c23f1c324d32e1a9d774eee21adb2fcf20b3bf4e49f9317edabf8ca"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "sha256": "42319b5bb19badb474cb49556eb0900181d0c44a2ff77c8b26f35cd9b7f31f97"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "sha256": "b886c80b860a0346a44360dbf6d495d940098f0952767cfdc1ce729a9e50dff7"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "sha256": "53f1dd2f62b7fa46f71a2d92edb477e4ccd9a991e0b8d8077d72110159f596e7"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "sha256": "9c4597338b1d4b1165dad505000ae426eff2159aab11f283e3ceabc7bad39c4c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "sha256": "2625f255a66973b931268a989edaa66ba165b1c41b1fbc01239e894de2213aec"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "sha256": "958abac81d1f08a3164787906498e3b77736e6df735ed7b00badb5de990aedb0"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "sha256": "0d1d5811bd6f030c2a440e75d0c7c6028f9776baccc06bd2bc69c26eabf24ca1"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "sha256": "56f0a1222e1ebd86a641a0d9c4e1dd719acd90b41dc8abc5a9fb81fe90554084"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "sha256": "607a296c443e94495839871254efc5c3ea6bf867c4a7bff3c5d6ed5a84d09eeb"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "sha256": "c63999af43a94c32e7b95d69a9377b64d39abcb53c3d66fde3a719ab27a698e8"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/hLockID1",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "sha256": "d7351da33b8b1517998e633dd8de6e751fcc6151cf9efca1ddccfd4cf970ebf1"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "sha256": "5f9c583b1ceeb5e06be9626b6125dd2647994ae3ee1c4a26e42b119f2ca691a6"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "sha256": "cfcd31a4e8c6756f30e0697c29d554bfaef9aa44fa200bc21bb4610d1f1700a8"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "sha256": "0cc98a6db08c033d896d427a8329849af9fa0b2601393c705b4d802df485e8cf"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/BSTCNTOF.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/BSTCNTOF.DBF",
+    "sha256": "99c7709fd7ff157ddedea390d829c1356dc2a33c582beaf01ccee43a798babef"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/bstcntof.id",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/bstcntof.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/bstcntof.lck",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/bstcntof.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/BSTCNTOF.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/BSTCNTOF.MDX",
+    "sha256": "6fb573b88ebd6cc44b718438e1240fc2f714ec85e10cdc8c25556d812cdb785c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/online/BSTCNTON.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/online/BSTCNTON.DBF",
+    "sha256": "4f4b564aa2398654b1a2f1a3e24883b3aa63228f2000e830ea0f9a496d1b3e46"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/online/bstcnton.id",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/online/bstcnton.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/online/bstcnton.lck",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/online/bstcnton.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/online/BSTCNTON.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/online/BSTCNTON.MDX",
+    "sha256": "1bb5f6b1b7df86b34483068f5896913d0c251a951bb78fd9493bc7aec158e498"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/online/links.lnk",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/online/links.lnk",
+    "sha256": "7d0936a2a451aaab8b94641355080bee608a8d36b5477521c09ec24ddcb60707"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "sha256": "3a2a45089b65c0425b49e18292fc700b19e1901f50506c6ac843905ed6545c65"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "sha256": "528f3d076c7e9d38f52c7243b04e927bed85210ef3636b514a404c9fcec1cf6f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/baustein.id",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/baustein.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/baustein.lck",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/baustein.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "sha256": "51d903e213ac6905e4c0f3eec7a2746c7875628d9d0811fdbc9328d6cdae11ca"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/links.lnk",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/links.lnk",
+    "sha256": "36d1892ab7e378ad69ffbcb6f97bca865382251848fbf36dc93d12437c9c0db6"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/SUBBLK.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/SUBBLK.DBF",
+    "sha256": "9047f6cb394733eb88a51404758b24c9890f851b0c872c22016191c450129104"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/SUBBLK.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/SUBBLK.DBT",
+    "sha256": "70af0818b2975c329292f7282a89669d887a8a11ecb218a12286f3c47f35fd1f"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/ombstx/offline/00000001/usfapx.ini",
+    "repository": "exercises/04-box-classification/native/Q4/ombstx/offline/00000001/usfapx.ini",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/omgd/linkgd/00000001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/omgd/linkgd/00000001.DBF",
+    "sha256": "0333843f4f187c9428b34f1ed21ce1d11f780cee2edffa4070223b7e6544b98a"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/pgs/linkgs/00000001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/pgs/linkgs/00000001.DBF",
+    "sha256": "0cb3166e26c4d155865143696885432ccf0a40bece8317ddb8803a4193bf0236"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/00000001/S7CONTAI.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/00000001/S7CONTAI.DBF",
+    "sha256": "5ecc7ea4aaf3ddb852c1b390ce1b5c7d1191c16294b971e971b61076e16d0419"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/00000001/S7CONTAI.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/00000001/S7CONTAI.MDX",
+    "sha256": "d01846c51b1ce4eb6c143002bce5e3928f5e423e53c14b79bdd4f71caabeb1df"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/00000001/S7LINKS.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/00000001/S7LINKS.DBF",
+    "sha256": "166d85d96b54089ce32dc409aad9616a2ce9504128cb8bbe412fdc918c886178"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/s7asrcom/00000001/s7source.lck",
+    "repository": "exercises/04-box-classification/native/Q4/s7asrcom/00000001/s7source.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/0000000b.PG",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/0000000b.PG",
+    "sha256": "c0e0d601f78ec27aa77f825ce907846d89c2a7f5bb8db42af31f7977e366f557"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/0000000c.PG",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/0000000c.PG",
+    "sha256": "28778408cf6d5a5b699330176b74fbad6a707fef22e3e806b594bf60be0c4e1c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/0000000d.PG",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/0000000d.PG",
+    "sha256": "96442724d20c89ef5d67ed0f65d2a435639fb5dc8df1a0f0eb2c0c526367efa7"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/0000000e.PG",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/0000000e.PG",
+    "sha256": "99513f9b45ba4abce0d3360541387965bd8c62099b434b8d8ef6c0991aa19e88"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/0000000f.PG",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/0000000f.PG",
+    "sha256": "a8064e58fb0b86c29ddeb797a8268ab9d1f90ad87da87757c2dcde2d453efcbe"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/link/00000001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/link/00000001.DBF",
+    "sha256": "01093969b1b9b38c9df680fc9085a0c3a0c98a2347dceaba36f6cec44472f6a2"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/list/00000001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/list/00000001.DBF",
+    "sha256": "10c1e455c4c870bcc37cbfd9053f24758622625ba79a7972803503ff8e395028"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/sdb/00000001/list/00000001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/sdb/00000001/list/00000001.MDX",
+    "sha256": "da9dc43378c3c5e60e242f467757ff114f8e0df4b7c8bf6f8ce9c78d3baa11ea"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/links/BSL00001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/links/BSL00001.DBF",
+    "sha256": "e12921baa9bc72035f2cd35283f49b275e1ea0d92e54e250db1d712ae7597790"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/links/CTL00001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/links/CTL00001.DBF",
+    "sha256": "9184e1a7735a7eddbe76ea2ad013cc713ba2aee7ac80abaa58535ac0462fe212"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/links/XRL00001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/links/XRL00001.DBF",
+    "sha256": "033d8c216870093317a497ec217aa1f8569d09b3340e168f756dbfab1844812b"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/listen/BS000001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/listen/BS000001.DBF",
+    "sha256": "2568c932284927b5f2c4bcd606e8e5268fe421553957965423183fffc39371c8"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/listen/BS000001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/listen/BS000001.MDX",
+    "sha256": "25e0c36ec8dc6b46148ca30d688e8a2992a6feaecd77ec65010bb8e53bc71485"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/listen/CT000001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/listen/CT000001.DBF",
+    "sha256": "e3b4b9299e2bdd6e2d53edd792597b32ca903fa2fed15be63f3720ac5e0ab563"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/listen/CT000001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/listen/CT000001.MDX",
+    "sha256": "04c564cb5f85d8296a9dde35bedc5c3e066ee0829ad41cc677d83bfec77f8716"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/listen/XR000001.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/listen/XR000001.DBF",
+    "sha256": "91118e5b2e99ff788226ae83a44f4386e89a6bd98a15b101b53dabdeadae0243"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/listen/XR000001.DBT",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/listen/XR000001.DBT",
+    "sha256": "12dd17447d9b6c1b6bf2cb1525dda6c7e6d88deb88b38dd1fd14e885116ebc75"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/XUTILS/listen/XR000001.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/XUTILS/listen/XR000001.MDX",
+    "sha256": "cb5f47a59debc0712a04bb6714faa2222c4fc880d19ac584871e02ae2fadd4a1"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/YDBs/26616/SYMLIST.DBF",
+    "repository": "exercises/04-box-classification/native/Q4/YDBs/26616/SYMLIST.DBF",
+    "sha256": "0d9c4f84163671ebbd14eb1d004915999a9fcdb11c7f4263c27e5551debd3429"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/YDBs/26616/Symlist.id",
+    "repository": "exercises/04-box-classification/native/Q4/YDBs/26616/Symlist.id",
+    "sha256": "ad497f997ead95db601f7d7ed72a7a624ba52ce6f4145a6dc7ec10d1f03876a9"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4/YDBs/26616/SYMLIST.MDX",
+    "repository": "exercises/04-box-classification/native/Q4/YDBs/26616/SYMLIST.MDX",
+    "sha256": "6a14229b7b2b83ed6c4e17880fe9e3c6939189ae724d0da3d82cf31ebbe5ac9c"
+  },
+  {
+    "original": "Q4(Mideterm)/Q4.pdf",
+    "repository": "exercises/04-box-classification/ladder-logic.pdf",
+    "sha256": "500e92fb8e9d0a860cb911f137134caf671e56946c90bb97008e705f86f5b5a3"
+  },
+  {
+    "original": "My Scenes/Q 2.factoryio",
+    "repository": "exercises/04-box-classification/scene/Q 2.factoryio",
+    "sha256": "8193fd4502e00011f1b2c44d3ed11f5228f4c90028291900a9875d833d140dcc"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/link.lnk",
+    "repository": "exercises/05-palletizing/native/Q5/link.lnk",
+    "sha256": "d990c60624060ce2defb9902a74ba8f056ff3c9014c6dedef81fbe26024a9a76"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Q5.s7p",
+    "repository": "exercises/05-palletizing/native/Q5/Q5.s7p",
+    "sha256": "6dcc777237affb2335aca004147ce6f823c5c42c4acbb2603aea3ce6c99d133f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Q5.S7S",
+    "repository": "exercises/05-palletizing/native/Q5/Q5.S7S",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7netpro.npa",
+    "repository": "exercises/05-palletizing/native/Q5/s7netpro.npa",
+    "sha256": "51f407350fe7ec75add0db36bde874994d4f4d4ee2c767b36fbbb73778cb9a0e"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ApiLog/lock",
+    "repository": "exercises/05-palletizing/native/Q5/ApiLog/lock",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ApiLog/LogIDs",
+    "repository": "exercises/05-palletizing/native/Q5/ApiLog/LogIDs",
+    "sha256": "5938071d80833fc0ba81bfaf1275e42aa568aba9e8834ca1733e1f4e235a92d4"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ApiLog/Step7Bas.ver",
+    "repository": "exercises/05-palletizing/native/Q5/ApiLog/Step7Bas.ver",
+    "sha256": "f228f67c8d022415fb70a8eec33c0c475cdd9ab7f74530cb8d0a221ccff10435"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ApiLog/Types",
+    "repository": "exercises/05-palletizing/native/Q5/ApiLog/Types",
+    "sha256": "e15b8770bd401141c933a98950f7e0e40b5002cfe73eb53a844446abf4a95ef2"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/CONN/LINKVL.dbf",
+    "repository": "exercises/05-palletizing/native/Q5/CONN/LINKVL.dbf",
+    "sha256": "d1861d7087999cd2886a087c53ab88f68fb09818aebded137f98889618493fe4"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/CONN/LOCKVL.LCK",
+    "repository": "exercises/05-palletizing/native/Q5/CONN/LOCKVL.LCK",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/CONN/VERBLIST.PRO",
+    "repository": "exercises/05-palletizing/native/Q5/CONN/VERBLIST.PRO",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/CONN/VERBTAB.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/CONN/VERBTAB.DBF",
+    "sha256": "f56bbb7152789906abf3ad37e7eb8133ba9faa4a7886ffa0ff18a072cc651fa1"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/CONN/VERBTAB.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/CONN/VERBTAB.MDX",
+    "sha256": "f996bc49b280f8b9f6503a71a6622edea754a7bf4aae4224b8993dc67e4eda9a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/CONN/VLTAB53.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/CONN/VLTAB53.DBF",
+    "sha256": "07935898b68f341adc6c130522e520864d18f65b8737b5f38cb7ce76164495c6"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/CONN/VLTAB53.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/CONN/VLTAB53.MDX",
+    "sha256": "740e2fb18e715711c20fc1cbfaf74a3085392f428e9a374482718840ae1e9ec8"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/141099_1.txt",
+    "repository": "exercises/05-palletizing/native/Q5/Global/141099_1.txt",
+    "sha256": "470ec21fb7bd7b499c79633a1ec2582bc7a264e2857d1d34dd01320cafb572e3"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/141099_1_dp_asi.txt",
+    "repository": "exercises/05-palletizing/native/Q5/Global/141099_1_dp_asi.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/colorder.dat",
+    "repository": "exercises/05-palletizing/native/Q5/Global/colorder.dat",
+    "sha256": "963cc3984bc5653f93a2e172b681d6418a1b36ff9f61537dfe35391db453fbc3"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/colwidth.dat",
+    "repository": "exercises/05-palletizing/native/Q5/Global/colwidth.dat",
+    "sha256": "68f39518f7294524ec5a2ee166389d0d5ad9dcedfcfe5c1c66ef88e8143d7f63"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/Font_1",
+    "repository": "exercises/05-palletizing/native/Q5/Global/Font_1",
+    "sha256": "5529e7d3e3a87dcc1b228537f680c59c47cf9d658d0efb328d0d0f02ea4d614a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/Font_2",
+    "repository": "exercises/05-palletizing/native/Q5/Global/Font_2",
+    "sha256": "8711877c5394fa38952b24753d4860d9700ee9cee65bc7038a33a49d1eb0c30c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/Language",
+    "repository": "exercises/05-palletizing/native/Q5/Global/Language",
+    "sha256": "91133aba771b538772f895c781d3536f01b23d515dbc73a9e6ea58b056a98a31"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/PROJECTVERSION.umf",
+    "repository": "exercises/05-palletizing/native/Q5/Global/PROJECTVERSION.umf",
+    "sha256": "370b939b9e4363efedde2483de0337608128e796c13c76e5c47ecd1f22001ba1"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/S7hCompressedMetadata.cmf",
+    "repository": "exercises/05-palletizing/native/Q5/Global/S7hCompressedMetadata.cmf",
+    "sha256": "6948e675d14b29dd271811681d7895cad6fc749198430de9e7f3c64f624ac801"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/S7hMetaData.umf",
+    "repository": "exercises/05-palletizing/native/Q5/Global/S7hMetaData.umf",
+    "sha256": "93e6fddec9b7e76c36211944b7a79e19567b347a4915e6e596c717add1d51eff"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/s7netpro.npa",
+    "repository": "exercises/05-palletizing/native/Q5/Global/s7netpro.npa",
+    "sha256": "51f407350fe7ec75add0db36bde874994d4f4d4ee2c767b36fbbb73778cb9a0e"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/Global/s7netpro.wnd",
+    "repository": "exercises/05-palletizing/native/Q5/Global/s7netpro.wnd",
+    "sha256": "277dbb84be92b4698198b8e5a8eb10b4ac9b605063207fd5063e7fa144a91f30"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/lastrsf.res",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/lastrsf.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/lastrsn.res",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/lastrsn.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/linkhrs.lnk",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/linkhrs.lnk",
+    "sha256": "e24c66b448df8e59d3b64ac2c56eceb242cf58dedd0fb0a08e87cf47e5785e3f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/rsflock.res",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/rsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/rsnlock.res",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/rsnlock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/S7RESOFF.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/S7RESOFF.DBF",
+    "sha256": "c91a51582c811de2c505a14c9c7689f02cba87ab78ad6e49502c6519a10c41eb"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/S7RESOFF.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/S7RESOFF.MDX",
+    "sha256": "34e545e38afbbdf902859f90504444021887d84a86a5eba9d1efaea3b534590f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/S7RESONL.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/S7RESONL.DBF",
+    "sha256": "14d69f280cb9e99be67e3f35ceeb0bb89b8b75200ed153c9cc55d9847adddfd4"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hrs/S7RESONL.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hrs/S7RESONL.MDX",
+    "sha256": "0c54fabe8cda7da6aae0c8d2a6a25fc65e106f628cf9e8031aa4e94f16c14edd"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/omgd/gdflock.res",
+    "repository": "exercises/05-palletizing/native/Q5/omgd/gdflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/omgd/lastgd",
+    "repository": "exercises/05-palletizing/native/Q5/omgd/lastgd",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/omgd/S7GD.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/omgd/S7GD.DBF",
+    "sha256": "44559669ca3c6a5ad7be394e6b05ea4b816a3dbf248e03fe2b7c6be5a4780c4c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/omgd/S7GD.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/omgd/S7GD.DBT",
+    "sha256": "91904db1fc9357861950c300ad0e1f39f1e88114bc2067ac2840a862f4bc7f2b"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/omgd/S7GD.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/omgd/S7GD.MDX",
+    "sha256": "ab2191029f6b231f3fff3e5c020ba18d0148ba9ffb75325c6b959a2f56d0833c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/pgs/gsflock.res",
+    "repository": "exercises/05-palletizing/native/Q5/pgs/gsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/pgs/lastgs",
+    "repository": "exercises/05-palletizing/native/Q5/pgs/lastgs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/pgs/S7GS.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/pgs/S7GS.DBF",
+    "sha256": "689c55aa0ec826ed164eef5c1864910cc1d1b868ed27044ddda58193a704c6fc"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/pgs/S7GS.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/pgs/S7GS.MDX",
+    "sha256": "c0c8aa0ffe022bb6b6960e2e08f2d9149c5b533dfdda7745e4d7eedf83810636"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/s7cntID.src",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/s7cntID.src",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/S7CNTREF.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/S7CNTREF.DBF",
+    "sha256": "6533b1ec23b079c71b51dcbb993acbfa6a407d0f52a3e536ced7cb48ffaaf45d"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/S7CNTREF.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/S7CNTREF.MDX",
+    "sha256": "8d970b0ab83084feb64e7b36cfa465c09ba6a3333cf8940bada7be1bcafb995d"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/s7contai.lck",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/s7contai.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/S7Netze/S7NONFGX.id",
+    "repository": "exercises/05-palletizing/native/Q5/S7Netze/S7NONFGX.id",
+    "sha256": "26b25d457597a7b0463f9620f666dd10aa2c4373a505967c7c8d70922a2d6ece"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/S7Netze/S7NONFGX.lnk",
+    "repository": "exercises/05-palletizing/native/Q5/S7Netze/S7NONFGX.lnk",
+    "sha256": "f89ada6cf210129337cdcd017cc0999bba9867b2da883a9897ef38755731fc52"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/S7Netze/S7NONFGX.tab",
+    "repository": "exercises/05-palletizing/native/Q5/S7Netze/S7NONFGX.tab",
+    "sha256": "3d9023d9f4b30edeb9d61dcfd55329ffc620f10f95b4389c6bcc4c7f5dee434a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/S7NFREMX/S7NFREMX.tab",
+    "repository": "exercises/05-palletizing/native/Q5/S7NFREMX/S7NFREMX.tab",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/S7PPLOMX/layout",
+    "repository": "exercises/05-palletizing/native/Q5/S7PPLOMX/layout",
+    "sha256": "d577c76ab05b00d42ddedfc7f56e102a5beab383b1e1188705b222cbf498ce4a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/S0112001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/S0112001.DBF",
+    "sha256": "1305130f1f5e95e404908d3ea7a91a69df8cb767ebeea986ed742a24d061a432"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/S0112001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/S0112001.MDX",
+    "sha256": "3b447753021e783244a463aa071e5f6c612986a5effc5ec98773983538974d24"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/sdblast.id",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/sdblast.id",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/sdblock.lck",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/sdblock.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/BS000001.lck",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/BS000001.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/BS112001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/BS112001.DBF",
+    "sha256": "4fa5737355627722b2851b04e3133bbad8a8a8d63e9f045b36e0ab3d14340e28"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/BS112001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/BS112001.MDX",
+    "sha256": "e6dfbc494fda0d8b272b2d2b92f7ae9a1610c33d5187f8a2cbcffd60f151c21f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/BSlstlck.lck",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/BSlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/BstlID.ubs",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/BstlID.ubs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/CT112001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/CT112001.DBF",
+    "sha256": "6f0b876d01da271bf00ba80bc1323ea1c96ae3bf3f86533261fee1b493effdba"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/CT112001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/CT112001.MDX",
+    "sha256": "860382dc2acdde15a0e73985224b0c1c8c2ccb791ea6e73fc53ed3d5dc17df99"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/CtlistID.uct",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/CtlistID.uct",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/CTlstlck.lck",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/CTlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/XR112001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/XR112001.DBF",
+    "sha256": "01650ed96d62e64e8b294e4cf1faddc03026c3222fed750d7716432fba375889"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/XR112001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/XR112001.MDX",
+    "sha256": "fde5fa66fdc6be55e6f9bb086d7a7b22ea34107166755c6da83e65f06dc5bcc0"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/XRlistID.uxt",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/XRlistID.uxt",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/XRlstlck.lck",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/XRlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/YDBs/SYMLISTS.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/YDBs/SYMLISTS.DBF",
+    "sha256": "348c2cf2cb4b227b03160a81bc15e236ff02521b8cb0094cf9b0456c2a0f91dc"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/YDBs/SYMLISTS.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/YDBs/SYMLISTS.MDX",
+    "sha256": "74121633f33de7de98754d0a97e0054234a7e3452bb8d0bd150920622f41e0b9"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/YDBs/YLNKLIST.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/YDBs/YLNKLIST.DBF",
+    "sha256": "9c99bf2326627c3e11787a76543990e42f12cc8e2a400b774e2e726d019da263"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "sha256": "c2c61d8784c9b336a84c62a8c2f711244eccc171a94cc306c398bed09af39909"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "sha256": "4933077431043ca6183826b26c7133607d79094dde4e5abc044501d46d19e4c0"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "sha256": "a9cca5a66854a4854c77aca95d8cdede9f644fb61ba64996da56432ea0d88e9c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "sha256": "5e1df383b1b17b1b45b200463803ed860ec527980100f45940c3379873bb7740"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "sha256": "325cd40b48b85064f03390283e06252f74e38258c6325041ff6f5ac94b165c6a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "sha256": "fd48d38eb7776023f885a4a5a1d0038528a0a8da8bcb3e85c0a368abc738de72"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "sha256": "aea3995ba71de46a5e0db1542f3d88e76a6ba654fc1f7fde4d9db4488f9008d3"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "sha256": "2f944d3df8633c007d152b1226a1f1f0fdb7167790d3d69960da78d69c42a205"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "sha256": "cf223c74a828b36f07a2a169d009d68caf43401c577cd5509162098ea12cab09"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/hLockID1",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "sha256": "9d5e466f9fc8b1eb82887f681ee90ac7ce05dd0aed5bb9d29e9414d1c8e56bb4"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "sha256": "266122597f1ce8769f5c8dc48c39b093dace6338608ccae6fd2126840f214f9c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "sha256": "2cf2c3fdfefb3a2ecdbcaf158892fa2952318d408fcd7f57e0cbc123ae0deaf2"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "sha256": "32309ae9527649e5528b549c488ec908e233613e20eaeba31f27c6f005616496"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "sha256": "33d13175f26557ca733f9d70e901ceef0e248f62373f3cac72601604b7d04060"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "sha256": "2a0ab8bb3345efc3e2dc451755ce8f79bb75a2ee84c9b3a00ff38460f9298b7b"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "sha256": "a9cca5a66854a4854c77aca95d8cdede9f644fb61ba64996da56432ea0d88e9c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "sha256": "535da2fff7835e00380cea5e4ae7d280cb285889332b5f392c104cfe4c3a8fbf"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "sha256": "325cd40b48b85064f03390283e06252f74e38258c6325041ff6f5ac94b165c6a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "sha256": "d390de0ca3c418bb229233cc754f8172a5417b519315d55a41ac2f9e32997317"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "sha256": "76f0fef820b6bb72e937fe8ff92360a132641f7398a53863619c7991e4737db7"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "sha256": "41548a55674e16ff942345092ce51b0f37fffbf13b19ec71bc80bc807f1ff4a5"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "sha256": "cf223c74a828b36f07a2a169d009d68caf43401c577cd5509162098ea12cab09"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/hLockID1",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "sha256": "ca4725efecc9b073fcdb85fa5c8a360bb699a3b7983787955f69264e6f84e817"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "sha256": "266122597f1ce8769f5c8dc48c39b093dace6338608ccae6fd2126840f214f9c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "sha256": "821200beb6e4ae755845fc3e9bf13b08839ad52089619971c200b62a773e5e40"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "sha256": "11e6148c19d0171d0f74ce98c742bf9688b649aac67530935ad1fa4a76b2c4a5"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "sha256": "895acb4e2e5dcdd2fcdc44869ac5145dd0fdd7bf229e21c19d78e5f1795eb746"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "sha256": "0f46aea6bcec35b7fc4a802be3e47520f5bbfb162e7d5469b52a15d92fc58428"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "sha256": "a9cca5a66854a4854c77aca95d8cdede9f644fb61ba64996da56432ea0d88e9c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "sha256": "2884a7be67f2b37f92d9746f9df855cd25765a1e276565dfd7ce373d989c35ba"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "sha256": "c6c73d32c3de0b0fc443e48ea46df63ba0df950ccb81cb1a08ce640061272f8e"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "sha256": "954a1b63d2e3a7f887cb32b2b6558e32635e3ac80203acdd07fb1ddd5146660f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "sha256": "f68ab3b330d3adfe695d72cad054e29a4775599a1bf1ab1a8134d6817d1fc9b7"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "sha256": "2780a8b5a1b7247d4957115c11bedd306c45eda539f4ddc4b9d7ca744112c2ae"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "sha256": "cf223c74a828b36f07a2a169d009d68caf43401c577cd5509162098ea12cab09"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/hLockID1",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "sha256": "9179d489f9fa84e0877b03bdb177bde161ceeec14e063a8f53e57117a6d43fcd"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "sha256": "266122597f1ce8769f5c8dc48c39b093dace6338608ccae6fd2126840f214f9c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "sha256": "3ba42ba78c33d68ec12da5edcc1938a790b4153f9d0a88b350da6f794550058b"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "sha256": "16a42e7568a2d4fc9a919f7236dec76c3cbd2b53d02309df82e07badf3ab1adc"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "sha256": "6aca280ac475251365db3b7deb0583f3536d64bca7cb6fd822a34db498637577"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "sha256": "739f0e626c48e60730812fd4a0fcdb93fb7fc76b0a17eeaa8daa05c884490920"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "sha256": "94bd581142f81b44f547e594c821f98db645843fc082c2c0919809b95d14cee2"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "sha256": "f302554eab7f865de824c3cb81d50aa323221711d18d9fd4964b95cc7f3d4c92"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "sha256": "f8ba52112dfe5404a081076f5c8ae3a2920a48425c7858cbd679d7cba5ad6a6b"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "sha256": "ddf513b2234f8d2cb7496a38d83973eb931d270a7dee2bc8d5e8f55bb99babcf"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "sha256": "633c1a49ccb88636bf11ba3c5f6b0ce142c6dcf423b41f106f7a55ed9410d416"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "sha256": "08c939ce5c62f08ce3cb3656c7d795060b2abd947f0e056883cbfcc0e877b8f0"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "sha256": "a43e0f10fe3aa52843b3cbfe99481ad2c9490a511b3bd7571149ecf7002b7169"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/hLockID1",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "sha256": "b853a92aa0f67ad8e9a2c7f88faaf2f4620d6e0ec55e04444d7182c9eedfe4ba"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "sha256": "5d553ec412885629227eb7264d400278b2ea03c4fd49d89114e2fe30f6bdf179"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "sha256": "882bd581ac636b6a2f245c662452d218250b4af171fc2f85263cb9f7e8e96ee0"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "sha256": "cae1f40c8836f6ab5b6de529cdd0215c12020f3b809b1e63829d7425338a8f39"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "sha256": "3fdda3658e1342b9314016a0bd578eb923612c8ee27f17e27fd5405e551d27f2"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "sha256": "8b3b89f076cd44f1bd1b46720fd3da23fe5c4a907f7cf8d4534407689f03003e"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "sha256": "94bd581142f81b44f547e594c821f98db645843fc082c2c0919809b95d14cee2"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "sha256": "286820d28b0401b6da524249cfa3e35a4e1ada57a7f772eb14b99ffe78404630"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "sha256": "2ce0e3577156e33ec832d2e93cf15ffa44846b543a5fbdc5334b51ce28a6d845"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "sha256": "63ceb71edf66cb8c14bd7963ddb1c2ab1d3c3f76235a977effe326eee07b71c4"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "sha256": "af189cfedf80d2adebb1d712fa4172d962654567f26286c2f3d428841a46c64c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "sha256": "760578d5609bdb007ad27bfde6f4f9fbf1ad81997a9661b708158943d589cf46"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "sha256": "a43e0f10fe3aa52843b3cbfe99481ad2c9490a511b3bd7571149ecf7002b7169"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/hLockID1",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "sha256": "1a79a945f3f550f20c2178afa9dc4f4e75d5dd4f6eea4a2e47525dba1d370148"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "sha256": "5d553ec412885629227eb7264d400278b2ea03c4fd49d89114e2fe30f6bdf179"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "sha256": "05140d9505f28c5e9a927def220d893ce63b98ef3dc8540d68eccd28bf55a81c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "sha256": "3a4fcb662b3b2c56c24a683c9ce3a0c58c8e481e2c6d18a4b051fc1db5a80718"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/1.s7h",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/1.s7h",
+    "sha256": "0711706562f1f715f5e881e168f5ac30e7b375cbe9f5cfa90904b249b082e2ce"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "sha256": "6995c235a714fdf1769abfc99ca4f11a89fd1bf8a963e42342f990cce8007345"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "sha256": "11614a60013348499154415bcb7571ba79d0e9777375a386d421e28420a3fdd1"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "sha256": "cb41ebc68e9a1c3f973b8ad3bfcfb29c749837a1c433d81109284652dd8cbab7"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "sha256": "18cb1fe6a077bd0e29df75c227d68d522931d361701d979494101857d97bdf43"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "sha256": "c53d6a23a721fc19d59d071b131744ae0c53a155286fadc2753532b8cefe384a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "sha256": "e004c9a5e466f740a42091a5bb5163d97db5101db5cd80f46166f27a91c6c978"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "sha256": "fb3bea4bd56d88c1df4597bd5d891a802319019bd67e2b47c22ca8a92117672f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "sha256": "07da288a61a94ea7918718bd90974c564eba9951f4233940c9cb9fe9746f1272"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "sha256": "fa6e3ee25688d816921d66936f00e036330985943406bb92f07501d0357f51aa"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "sha256": "56f0a1222e1ebd86a641a0d9c4e1dd719acd90b41dc8abc5a9fb81fe90554084"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "sha256": "4b454ca7d65098b5ddfd98207f458a000d870150a38023cacd721ec6e852c02c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "sha256": "fc9ab8ccd602a54406d7df3b09b139d0cc83cccfa7a415d62093c9caeeafa2a8"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/hLockID1",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "sha256": "18b055e81341ec46b982a04d19b093d00a9836e75dc5e63fc33e1e5ceeb774be"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "sha256": "a4313f56d854ff85a608d44a145c9ef1016f849d0c5803dd6bb7ca9ff530459c"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "sha256": "cb1cdf59bac4f0c3874ef60a7acd10f694ba7cc6aa763dc46c95a9416d2569d9"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "sha256": "9890a8914b2c3267b9eb298c93d9e51aae1b66c23eeacb6552a9e33351f986a7"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/BSTCNTOF.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/BSTCNTOF.DBF",
+    "sha256": "c70a0b99dea014229ad0538d63c942412da3b9bad84ab665cd3c079d4d220eda"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/bstcntof.id",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/bstcntof.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/bstcntof.lck",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/bstcntof.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/BSTCNTOF.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/BSTCNTOF.MDX",
+    "sha256": "005df8d38a5b2c36a88a45634269c0f003bca45c2ba5981a454784d4ccc13568"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/online/BSTCNTON.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/online/BSTCNTON.DBF",
+    "sha256": "0f4bc365d232be918382ad94382597944c31de92123fce299ed94091dcfd58d5"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/online/bstcnton.id",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/online/bstcnton.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/online/bstcnton.lck",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/online/bstcnton.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/online/BSTCNTON.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/online/BSTCNTON.MDX",
+    "sha256": "130dc07ca33575b28db75233a2c417ecaf7a0d2907358b48f298afce4af9d5a5"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/online/links.lnk",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/online/links.lnk",
+    "sha256": "7d0936a2a451aaab8b94641355080bee608a8d36b5477521c09ec24ddcb60707"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "sha256": "b95aef1967855f3a5e5b790f1e546ad031f2da0f8bccc6d40e5b5c49b225b885"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "sha256": "528f3d076c7e9d38f52c7243b04e927bed85210ef3636b514a404c9fcec1cf6f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/baustein.id",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/baustein.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/baustein.lck",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/baustein.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "sha256": "a2e735e9d6dacc0cd1e637ca83522c47327bde2fa8fa113fc34c1870c3f6c38b"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/links.lnk",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/links.lnk",
+    "sha256": "36d1892ab7e378ad69ffbcb6f97bca865382251848fbf36dc93d12437c9c0db6"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/SUBBLK.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/SUBBLK.DBF",
+    "sha256": "5bfb53adf4611926156b43659bc71a33a85277696a956d219a9394f0b65c2fa4"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/SUBBLK.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/SUBBLK.DBT",
+    "sha256": "46c9acdd2b78dc68440024575d928fc477aad51b56abd009e0a16ffeb54dcf28"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/ombstx/offline/00000001/usfapx.ini",
+    "repository": "exercises/05-palletizing/native/Q5/ombstx/offline/00000001/usfapx.ini",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/omgd/linkgd/00000001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/omgd/linkgd/00000001.DBF",
+    "sha256": "053bad1179412bbbd9bcb3e16cd7254999fbc7c9ff875a2d1ad5c0cfdd363855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/pgs/linkgs/00000001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/pgs/linkgs/00000001.DBF",
+    "sha256": "a0097add695b3b94563e49dd64e1b54b965183e2dd13defbd67a94270a2d0e62"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/00000001/S7CONTAI.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/00000001/S7CONTAI.DBF",
+    "sha256": "ac804f1267e96a4594e7f3f46f6714c4cceb70f2371a833e7e7c0813a1983374"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/00000001/S7CONTAI.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/00000001/S7CONTAI.MDX",
+    "sha256": "705d2ebd31681e5aa0f62ecf991b1b65aaf6a7d2fc92a43795b8681f0d23f766"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/00000001/S7LINKS.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/00000001/S7LINKS.DBF",
+    "sha256": "6fe0aeb1aebc83c4384e805950e3c792ea20011df7d4dd59bd67cd7704515a3b"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/s7asrcom/00000001/s7source.lck",
+    "repository": "exercises/05-palletizing/native/Q5/s7asrcom/00000001/s7source.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/00000001.PG",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/00000001.PG",
+    "sha256": "58473e230e08cc52be7db240852eeb8044599166fe217477d933571f86cdbfa9"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/00000002.PG",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/00000002.PG",
+    "sha256": "7b1ed6b56e6bc8491a259f4b44b413ce6018479137eacf34a3659a636446074f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/00000003.PG",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/00000003.PG",
+    "sha256": "df023a68653ae2a26f44e035620bed0522dd77e4056a04836d86837731e7a063"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/00000004.PG",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/00000004.PG",
+    "sha256": "ceede7af04a23eb63d55d554f7b16fc1eddf3e0623d3b2664725b77832277efc"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/00000005.PG",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/00000005.PG",
+    "sha256": "36bd5f81fe2b63ba785579328fe5643256507594e24b65e17c79914407e953eb"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/link/00000001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/link/00000001.DBF",
+    "sha256": "e4dfd3ea5d6af050d605f99b704a1cf3e38ada7bd1544f952d8e299d2b3f36eb"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/list/00000001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/list/00000001.DBF",
+    "sha256": "6ffb942ef90decb852ada4f7328d427b8928f796f58ad5ac20adf7458b478e51"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/sdb/00000001/list/00000001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/sdb/00000001/list/00000001.MDX",
+    "sha256": "9f57660ee92181f4e92b49628328c3a0726949e92f98b27611663124b9b7766a"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/links/BSL00001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/links/BSL00001.DBF",
+    "sha256": "9a5b086bd28bc92dc5089e243bf5f4a39dcb281fa87d41991c90ac7051284c29"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/links/CTL00001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/links/CTL00001.DBF",
+    "sha256": "a35ff22aa3d7049cb4a684973f05b75f3c23df050f0bc61ad286ce78fb18225f"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/links/XRL00001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/links/XRL00001.DBF",
+    "sha256": "9296bb369ae03cf30e01939ed837148f0bd9ac1e0b7c127e767c342d0f7b8f40"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/listen/BS000001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/listen/BS000001.DBF",
+    "sha256": "3d88a97f6bc147fc2e959934f8689d80cdeada6cee5618cfecd3b5eb1c0a5b28"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/listen/BS000001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/listen/BS000001.MDX",
+    "sha256": "deb16bc26b7527e352a545e8dc6d82f4ee25f2d81616f829c7d8e744a896a5c4"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/listen/CT000001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/listen/CT000001.DBF",
+    "sha256": "56fc4450f6b6471fdf2d981baa97e3939614b790614eaa3d81e079f9c016a4a9"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/listen/CT000001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/listen/CT000001.MDX",
+    "sha256": "c88823846eb372124e5b90575ff5e5d937af112dc6b4564e5a717ae916c12fd7"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/listen/XR000001.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/listen/XR000001.DBF",
+    "sha256": "b0af21cd3a1a3b5800037f3094e95753f856b373da1a012916f0c8df2a89d8c5"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/listen/XR000001.DBT",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/listen/XR000001.DBT",
+    "sha256": "12dd17447d9b6c1b6bf2cb1525dda6c7e6d88deb88b38dd1fd14e885116ebc75"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/XUTILS/listen/XR000001.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/XUTILS/listen/XR000001.MDX",
+    "sha256": "95c3762e85693384d90513aaffde2ea276543bd5cecfed61782cf24c9f64ec61"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/YDBs/13587/SYMLIST.DBF",
+    "repository": "exercises/05-palletizing/native/Q5/YDBs/13587/SYMLIST.DBF",
+    "sha256": "5138a37846e0649cb1ad97b2198ec83e8e7959e3f18d287db1615c8f9b5cc2c3"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/YDBs/13587/Symlist.id",
+    "repository": "exercises/05-palletizing/native/Q5/YDBs/13587/Symlist.id",
+    "sha256": "32434dc5b0f72c9b863c24daa5d4e79b9c43bd73b38c469fb65fd13d996b7b32"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5/YDBs/13587/SYMLIST.MDX",
+    "repository": "exercises/05-palletizing/native/Q5/YDBs/13587/SYMLIST.MDX",
+    "sha256": "637c3bb0410f94f151a458334fc5ec88f3f36d6498adfa0c2dc63338ff100f6b"
+  },
+  {
+    "original": "Q5(Mideterm)/Q5.pdf",
+    "repository": "exercises/05-palletizing/ladder-logic.pdf",
+    "sha256": "e89b873187a92cb941d8d97088018dcc84cbe49a60f4109b6fafcd0977898c54"
+  },
+  {
+    "original": "My Scenes/Q 3.factoryio",
+    "repository": "exercises/05-palletizing/scene/Q 3.factoryio",
+    "sha256": "f570ba529fb117196025b34faf5d768041b99fffa0b032c32d0cff273afb5bfe"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/link.lnk",
+    "repository": "exercises/06-furnace-control/native/Q6/link.lnk",
+    "sha256": "ffccb25cedfe37094ec3615a06aab0f60febbf39d59c82bc1f8ae823162a2f66"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Q6.s7p",
+    "repository": "exercises/06-furnace-control/native/Q6/Q6.s7p",
+    "sha256": "2d8e82e681a2f9aac2328f54d7b88f4226295737fcc9722118c050effa18c879"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Q6.S7S",
+    "repository": "exercises/06-furnace-control/native/Q6/Q6.S7S",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ApiLog/lock",
+    "repository": "exercises/06-furnace-control/native/Q6/ApiLog/lock",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ApiLog/LogIDs",
+    "repository": "exercises/06-furnace-control/native/Q6/ApiLog/LogIDs",
+    "sha256": "6a1426381b3966930dc36f30d85a95ccf6855add27b7cf49775b5d65b2902ac4"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ApiLog/Step7Bas.ver",
+    "repository": "exercises/06-furnace-control/native/Q6/ApiLog/Step7Bas.ver",
+    "sha256": "f228f67c8d022415fb70a8eec33c0c475cdd9ab7f74530cb8d0a221ccff10435"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ApiLog/Types",
+    "repository": "exercises/06-furnace-control/native/Q6/ApiLog/Types",
+    "sha256": "8479241feff6e5fc09e2e1ff08e1237e5ad763c7ec6c35ea5be6e9c013a76d84"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/CONN/LINKVL.dbf",
+    "repository": "exercises/06-furnace-control/native/Q6/CONN/LINKVL.dbf",
+    "sha256": "d1861d7087999cd2886a087c53ab88f68fb09818aebded137f98889618493fe4"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/CONN/LOCKVL.LCK",
+    "repository": "exercises/06-furnace-control/native/Q6/CONN/LOCKVL.LCK",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/CONN/VERBLIST.PRO",
+    "repository": "exercises/06-furnace-control/native/Q6/CONN/VERBLIST.PRO",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/CONN/VERBTAB.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/CONN/VERBTAB.DBF",
+    "sha256": "0108912326bd5fadd496724186e896be42cf958ca8cb87b7653670f6715a67ec"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/CONN/VERBTAB.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/CONN/VERBTAB.MDX",
+    "sha256": "63090212cd9ce1985cfa43684a4843e4df5947a9198708705d78648a57d1b76e"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/CONN/VLTAB53.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/CONN/VLTAB53.DBF",
+    "sha256": "499ce7c3091a3b0af790f11076e3bf81280126a7de7252d192ec45f89a82934f"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/CONN/VLTAB53.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/CONN/VLTAB53.MDX",
+    "sha256": "0faa05cab8385a886cb8969d2e86ac8a29099da3655e93a44bdc6e9446e80e3e"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/141099_1.txt",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/141099_1.txt",
+    "sha256": "737ad5a0edda951b186356d64ab21403c6be9e73a19e91fda06d023b14bd292b"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/141099_1_dp_asi.txt",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/141099_1_dp_asi.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/Font_1",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/Font_1",
+    "sha256": "5529e7d3e3a87dcc1b228537f680c59c47cf9d658d0efb328d0d0f02ea4d614a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/Font_2",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/Font_2",
+    "sha256": "8711877c5394fa38952b24753d4860d9700ee9cee65bc7038a33a49d1eb0c30c"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/Language",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/Language",
+    "sha256": "91133aba771b538772f895c781d3536f01b23d515dbc73a9e6ea58b056a98a31"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/PROJECTVERSION.umf",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/PROJECTVERSION.umf",
+    "sha256": "370b939b9e4363efedde2483de0337608128e796c13c76e5c47ecd1f22001ba1"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/S7hCompressedMetadata.cmf",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/S7hCompressedMetadata.cmf",
+    "sha256": "c4b97952fd2c83e5dbab5d20f6df1151243804893629e512c53abbd9258ce439"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/Global/S7hMetaData.umf",
+    "repository": "exercises/06-furnace-control/native/Q6/Global/S7hMetaData.umf",
+    "sha256": "a97b24372a966c5d3ca673ef17d60be28e4dd5d5beeb9a95cc18dade3cddc22c"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/lastrsf.res",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/lastrsf.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/lastrsn.res",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/lastrsn.res",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/linkhrs.lnk",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/linkhrs.lnk",
+    "sha256": "0e6330aa42bf4ab2a5d3eea135a8f0671d413ee74d247b2ad8b9367d27642e23"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/rsflock.res",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/rsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/rsnlock.res",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/rsnlock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/S7RESOFF.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/S7RESOFF.DBF",
+    "sha256": "46bdee7d544acaf723ecf157b540ec73832281501a1cc5a6be1984ec8a99f803"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/S7RESOFF.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/S7RESOFF.MDX",
+    "sha256": "ed8f655e3c97c5f95714593b6ea4e5074ad9cd882bd6a2135a2bcaedb46d4188"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/S7RESONL.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/S7RESONL.DBF",
+    "sha256": "5d203a9cba3ff70723c354d9470616fc3fd774dc2ad85197e7b4745e410a70b7"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hrs/S7RESONL.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hrs/S7RESONL.MDX",
+    "sha256": "b81c46dd36ee3bd091403ece8e5ebe2fc059bd0d97fb88746a015d8ec952adc3"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/omgd/gdflock.res",
+    "repository": "exercises/06-furnace-control/native/Q6/omgd/gdflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/omgd/lastgd",
+    "repository": "exercises/06-furnace-control/native/Q6/omgd/lastgd",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/omgd/S7GD.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/omgd/S7GD.DBF",
+    "sha256": "011d796f6dba6a100b074756212ad24a9b5650cd3d8f4e456efb53881622c7d5"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/omgd/S7GD.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/omgd/S7GD.DBT",
+    "sha256": "91904db1fc9357861950c300ad0e1f39f1e88114bc2067ac2840a862f4bc7f2b"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/omgd/S7GD.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/omgd/S7GD.MDX",
+    "sha256": "fda149ed54a5c4482b2266c1da771656854e96d24f3f9e9fc90618f46d6f0492"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/pgs/gsflock.res",
+    "repository": "exercises/06-furnace-control/native/Q6/pgs/gsflock.res",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/pgs/lastgs",
+    "repository": "exercises/06-furnace-control/native/Q6/pgs/lastgs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/pgs/S7GS.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/pgs/S7GS.DBF",
+    "sha256": "f5c47748cfa36145ba73b24a9cf3e6eaee98edbb2ea93a415a32520af7fc17a0"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/pgs/S7GS.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/pgs/S7GS.MDX",
+    "sha256": "36cacd1fffb1c6816189e58ac3b4915d5e7abf5844b52d47ae7e61fde731bb22"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/s7cntID.src",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/s7cntID.src",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/S7CNTREF.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/S7CNTREF.DBF",
+    "sha256": "86204f39446b1a947dba6bdaebe66b9cd7dcc8026cf535f3f73bc64bb3252325"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/S7CNTREF.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/S7CNTREF.MDX",
+    "sha256": "356f1af640d8e80ecfe72652d71156df312ddd5d4bc57969fae4950d20a5aa28"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/s7contai.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/s7contai.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/S7Netze/S7NONFGX.id",
+    "repository": "exercises/06-furnace-control/native/Q6/S7Netze/S7NONFGX.id",
+    "sha256": "26b25d457597a7b0463f9620f666dd10aa2c4373a505967c7c8d70922a2d6ece"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/S7Netze/S7NONFGX.lnk",
+    "repository": "exercises/06-furnace-control/native/Q6/S7Netze/S7NONFGX.lnk",
+    "sha256": "7f5ae7ca9e0ff394e68d0a84f6677d7729152103c7013040b9b4d319c89dfe23"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/S7Netze/S7NONFGX.tab",
+    "repository": "exercises/06-furnace-control/native/Q6/S7Netze/S7NONFGX.tab",
+    "sha256": "351de4790b46ee97f97a61e0d5f88a7526c4705e254b132ecea8167ddd1a9345"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/S7NFREMX/S7NFREMX.tab",
+    "repository": "exercises/06-furnace-control/native/Q6/S7NFREMX/S7NFREMX.tab",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/S7PPLOMX/layout",
+    "repository": "exercises/06-furnace-control/native/Q6/S7PPLOMX/layout",
+    "sha256": "d577c76ab05b00d42ddedfc7f56e102a5beab383b1e1188705b222cbf498ce4a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/S0112001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/S0112001.DBF",
+    "sha256": "c2aa9372b4044791d2664fcfab7d9a6a8ea4c7785374ebaea0307b7ac444173b"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/S0112001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/S0112001.MDX",
+    "sha256": "91bddd63741875a1b544723254e7953f48092371c41860fc9ad2550aca75c129"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/sdblast.id",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/sdblast.id",
+    "sha256": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/sdblock.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/sdblock.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/BS000001.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/BS000001.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/BS112001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/BS112001.DBF",
+    "sha256": "ced3bea328f9b59aa5bc9d0a9e7c0ccb0dd6b12b4985bf5a7dd4d82d0dfc8eb7"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/BS112001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/BS112001.MDX",
+    "sha256": "32931d621ff97423b72ad9aa2252765dbe5090877dbba4944d87d46a6bbef319"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/BSlstlck.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/BSlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/BstlID.ubs",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/BstlID.ubs",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/CT112001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/CT112001.DBF",
+    "sha256": "90108aef995a148d35050085cec8000ac149598557e45d06e82749a3cb793699"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/CT112001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/CT112001.MDX",
+    "sha256": "344d8f263c5c99aa9a1804fe4e57dcef4439c78a749514be1489f7487bcad774"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/CtlistID.uct",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/CtlistID.uct",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/CTlstlck.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/CTlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/XR112001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/XR112001.DBF",
+    "sha256": "2b88c7e6b193cd55092ff7c2053de08ec50cb032336b7965a9b9b8119da4d345"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/XR112001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/XR112001.MDX",
+    "sha256": "ee47f0d8ff3a8da4b7cc306ba27ee88afbb790a1aeac8c8b4f47aea03240dc79"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/XRlistID.uxt",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/XRlistID.uxt",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/XRlstlck.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/XRlstlck.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/YDBs/SYMLISTS.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/YDBs/SYMLISTS.DBF",
+    "sha256": "cd469ec15557be8a85b1600f6a86c3891453542944ddf65ae41ef2d7c56cb547"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/YDBs/SYMLISTS.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/YDBs/SYMLISTS.MDX",
+    "sha256": "9ff28eafaa48753e147316cb32964065babc56c73e16633559701480ba0429b8"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/YDBs/YLNKLIST.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/YDBs/YLNKLIST.DBF",
+    "sha256": "783356771d59445ecfda0f27284ee39bcd39dd9bcc4396a05cdb8f391b3fa811"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTARY1.DBF",
+    "sha256": "693d471765be891fed11998df68610e5cf5a0cd86b3090ea8d7b8ad7c163a86f"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTARY1.DBT",
+    "sha256": "4933077431043ca6183826b26c7133607d79094dde4e5abc044501d46d19e4c0"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTRIB1.DBF",
+    "sha256": "292f7355a914fba008bd65ec8ca8ef88d937ee638a785d22a9d742656550f12a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTRIB1.MDX",
+    "sha256": "ffa9cbcdbc80116e2a9601d5fdc61c5fb33483d2de3450bd62bd7dc74d556778"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTRME1.DBF",
+    "sha256": "d93ea6e92036ed1817f69352c5248ce4cd7375a315c6312b454d79040439889d"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTRME1.DBT",
+    "sha256": "aea3995ba71de46a5e0db1542f3d88e76a6ba654fc1f7fde4d9db4488f9008d3"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HATTRME1.MDX",
+    "sha256": "01b319777f6e31516506e54b06661c86ef5e0cb27c4c59275ed19fd0a08a13aa"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/hLockID1",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HOBJECT1.DBF",
+    "sha256": "5cda2f6251cf62a9197229f17af813fedca06f75ab83f71a0da38c6c7d26412a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HRELATI1.DBF",
+    "sha256": "5c733fe9ec97ccf978f01f1d4827906e9cd3184a0e4300b592ed187f2800feb7"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7fccntx/HRELATI1.MDX",
+    "sha256": "3dd6d806870ac270e992f81a8a4c5b459d9a4f446f5f144ff4d2ad1124c550fd"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTARY1.DBF",
+    "sha256": "256b3798efd19507c787d968c588484da84042dae0f3f8fc115393f3d31574ec"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTARY1.DBT",
+    "sha256": "2a0ab8bb3345efc3e2dc451755ce8f79bb75a2ee84c9b3a00ff38460f9298b7b"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTRIB1.DBF",
+    "sha256": "b268c8751b6232e6b5a949c207d51183b290f2fd8404c5d6fd4509cbb872f3f9"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTRIB1.MDX",
+    "sha256": "ffa9cbcdbc80116e2a9601d5fdc61c5fb33483d2de3450bd62bd7dc74d556778"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTRME1.DBF",
+    "sha256": "d37fe84ec06c6a6b6129b7d2687d5b0d4ae2f4813907389cc52ac8b2af1eee00"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTRME1.DBT",
+    "sha256": "76f0fef820b6bb72e937fe8ff92360a132641f7398a53863619c7991e4737db7"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HATTRME1.MDX",
+    "sha256": "0e1a1eb900e2ee895bf88ac190c3a41ce872ff6a27f35a9ab8f13416278e7c7f"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/hLockID1",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HOBJECT1.DBF",
+    "sha256": "7f419f9d0dd58b70248cee4f5a0847d9b5176a2fbbf299e52ad2c2b40af2ba53"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HRELATI1.DBF",
+    "sha256": "8fb848a9d8f07e13c6655fa519ceede0a56b453409861342f700213aeef9634f"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK30AX/HRELATI1.MDX",
+    "sha256": "26324cf5c38c61a23e9ceb976da91cbc37013c22cbbb7cec61685695124751e4"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTARY1.DBF",
+    "sha256": "3fc059351a03bf1f4c8d2555cf3d701f1f2cf2767f7c94d0de74e1f69a62a252"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTARY1.DBT",
+    "sha256": "0f46aea6bcec35b7fc4a802be3e47520f5bbfb162e7d5469b52a15d92fc58428"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTARY1.MDX",
+    "sha256": "e5b9e887a75e083e5453e8b2d867eec08a5ac9fb51b7a233a4cc7b027a9760a6"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTRIB1.DBF",
+    "sha256": "54a5df5943c67cf892958e9bbca1ed4287041e8b17f347e36e174176adc3c40a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTRIB1.MDX",
+    "sha256": "416c03000a4e926e4fa52fab1c5ef2425ca3d05544235420f1ea5cfc588bf2a2"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTRME1.DBF",
+    "sha256": "ef29a09b8662a1fd4d13c894dbd5660ef0902073877ae532440cd4f359140c07"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTRME1.DBT",
+    "sha256": "f68ab3b330d3adfe695d72cad054e29a4775599a1bf1ab1a8134d6817d1fc9b7"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HATTRME1.MDX",
+    "sha256": "76f3b1c4e31dc2f01223e53a1e9b88e96518a456debb5c15684f6059bde5fc14"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HLASTID2.DBF",
+    "sha256": "5a12f28a5988a650c17ee142d5afd17db4def49b264288b0feaa74b2724dd117"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/hLockID1",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HOBJECT1.DBF",
+    "sha256": "21a562461afbfef0038dc3232d840d32449dd6af65a3baca8f90d3fdff1e3da6"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HOBJECT1.MDX",
+    "sha256": "10fa39c6292c7c396e115be8b00f139fa505718619c311cb9c09f980ee2d4996"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HRELATI1.DBF",
+    "sha256": "53aafd05df26f0569728ed56054297e54d2c3bbf454e6c455fa9a547facdee78"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/S7HK31AX/HRELATI1.MDX",
+    "sha256": "5d196d6aba593086010de7d379fedcb65735f59ece38fd61dcafe3110f53ecfb"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTARY1.DBF",
+    "sha256": "a081020ab49296d6da0d652ede5e4ff3fa32c45dba275c0d217b83165d09e1af"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTARY1.DBT",
+    "sha256": "739f0e626c48e60730812fd4a0fcdb93fb7fc76b0a17eeaa8daa05c884490920"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTARY1.MDX",
+    "sha256": "3f0e9da43196a0e661c3cac4a47c984dd82148a7dadcf8ff0aca703d5f161bef"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTRIB1.DBF",
+    "sha256": "8148278e5b5e13757f8cb86eae311300316dc97ae3a6ce01635cee48d2a3b16a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTRIB1.MDX",
+    "sha256": "0a8dbd99288e91ec765e722f520dcda8402af1868bc64dac44ff3b075435516d"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTRME1.DBF",
+    "sha256": "0de658d1d9953d138dcf74b45246a42b971d5aaa361c32503a9718ecf9d00dc4"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTRME1.DBT",
+    "sha256": "f2f4c8d26edfd6b279615e534aad2e7b6e3909ec5e4e567f17542468b4b2944a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HATTRME1.MDX",
+    "sha256": "5a51d72986b34c7b795031d297310c550dd2e1eec709a113663b3c7780c759f2"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HLASTID2.DBF",
+    "sha256": "d90379dd8cc05ef550a6832c73868a7e30582c041ea4f7ef11a208892ed3a07d"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/hLockID1",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HOBJECT1.DBF",
+    "sha256": "52ee7ccdf3b498712bcdc5a45a6f4046c34d685beeb6ae5dc0a78872ef722e98"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HOBJECT1.MDX",
+    "sha256": "ed5bb51ef516a637eb2756ca7f214e37c6b1e60cab72234dd4f099fce8d06bf5"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HRELATI1.DBF",
+    "sha256": "0a0f91c98a5f134cb1e3e9380e2ad4e0cc46630e9a775a436e36d806c56b96e1"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hk96ax/HRELATI1.MDX",
+    "sha256": "3d753838dd79bc4374b60b638a6078723732ae30935f83cb2783531283c5fefd"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTARY1.DBF",
+    "sha256": "615fce2bb15a9bab23a42bad761b5b0df080f2ccb6a7e5e4741bcc5842308b9a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTARY1.DBT",
+    "sha256": "8b3b89f076cd44f1bd1b46720fd3da23fe5c4a907f7cf8d4534407689f03003e"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTARY1.MDX",
+    "sha256": "3f0e9da43196a0e661c3cac4a47c984dd82148a7dadcf8ff0aca703d5f161bef"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTRIB1.DBF",
+    "sha256": "c5082df1b1ebebd1b1e703909f9b2e0fa52ad6c6e7303b504ca25439ed18dafc"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTRIB1.MDX",
+    "sha256": "fc65f9679634cd8446afec0b0799186245f0e7d613ba2ef5f785aae1e5adf869"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTRME1.DBF",
+    "sha256": "5477e2c6f0dcb24096d556d9148b04a2e201e7fd142aa94076132e44829e7e32"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTRME1.DBT",
+    "sha256": "af189cfedf80d2adebb1d712fa4172d962654567f26286c2f3d428841a46c64c"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HATTRME1.MDX",
+    "sha256": "a97782ef81d01bf694e96c305911b744c0d9d678ca28b427620ac1dee00f4097"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HLASTID2.DBF",
+    "sha256": "d90379dd8cc05ef550a6832c73868a7e30582c041ea4f7ef11a208892ed3a07d"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/hLockID1",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HOBJECT1.DBF",
+    "sha256": "9ed1ba147006f40788646df1e6133bf21c94682b8ce9f199254170fa51a348bf"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HOBJECT1.MDX",
+    "sha256": "ed5bb51ef516a637eb2756ca7f214e37c6b1e60cab72234dd4f099fce8d06bf5"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HRELATI1.DBF",
+    "sha256": "3f81db714ccf60352a87a3ccf70abaa6199f379023b45ef70cb7e1eb7821fdfe"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hss30x/HRELATI1.MDX",
+    "sha256": "76042c951f2acea490c90b255eb6198fba8e72bb5ddc4ad9f7421ee7b718167a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/1.s7h",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/1.s7h",
+    "sha256": "f5ebe4cf4a6cdb741bbd806c1b0789a45c0704d674ddf54139823f117ebb88dc"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HADDRES3.DBF",
+    "sha256": "ac45595cd3ef6c49a27583d0fdf0e59474ee3795dbd2e3ae8ad7625388174855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HADDRES3.DBT",
+    "sha256": "e742c2e546bb207e402adcd5c0856e142d3e2d1b9731b6e0019c55e6c21fa877"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HADDRES3.MDX",
+    "sha256": "42319b5bb19badb474cb49556eb0900181d0c44a2ff77c8b26f35cd9b7f31f97"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTARY1.DBF",
+    "sha256": "b886c80b860a0346a44360dbf6d495d940098f0952767cfdc1ce729a9e50dff7"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTARY1.DBT",
+    "sha256": "c41621590c6f52619250425e4d905cd40b8dd6022a87953893da2147ac4f9b30"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTARY1.MDX",
+    "sha256": "9c4597338b1d4b1165dad505000ae426eff2159aab11f283e3ceabc7bad39c4c"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTRIB1.DBF",
+    "sha256": "2625f255a66973b931268a989edaa66ba165b1c41b1fbc01239e894de2213aec"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTRIB1.MDX",
+    "sha256": "958abac81d1f08a3164787906498e3b77736e6df735ed7b00badb5de990aedb0"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTRME1.DBF",
+    "sha256": "0d1d5811bd6f030c2a440e75d0c7c6028f9776baccc06bd2bc69c26eabf24ca1"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTRME1.DBT",
+    "sha256": "56f0a1222e1ebd86a641a0d9c4e1dd719acd90b41dc8abc5a9fb81fe90554084"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HATTRME1.MDX",
+    "sha256": "607a296c443e94495839871254efc5c3ea6bf867c4a7bff3c5d6ed5a84d09eeb"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HLASTID2.DBF",
+    "sha256": "c63999af43a94c32e7b95d69a9377b64d39abcb53c3d66fde3a719ab27a698e8"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/hLockID1",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/hLockID1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HOBJECT1.DBF",
+    "sha256": "e43b7b193010b693a9c4e5de47ad487c3259a05cc142e36b0f7cfdb9417077fb"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HOBJECT1.MDX",
+    "sha256": "5f9c583b1ceeb5e06be9626b6125dd2647994ae3ee1c4a26e42b119f2ca691a6"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HRELATI1.DBF",
+    "sha256": "49a87a8263392f5d474fa7754764c6dd167bb7e1b5cd8313a66f22dcc6889221"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/hOmSave7/s7hstatx/HRELATI1.MDX",
+    "sha256": "c43764508b3e273dd5c19689e4f8a2af893e81419ce97bbbbb7903fbf42c3f0f"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/BSTCNTOF.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/BSTCNTOF.DBF",
+    "sha256": "d3aa13d52dd38689e74eaa0d8b9a79c2fac67fcfec9831936d0df558c307c56b"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/bstcntof.id",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/bstcntof.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/bstcntof.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/bstcntof.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/BSTCNTOF.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/BSTCNTOF.MDX",
+    "sha256": "6fb573b88ebd6cc44b718438e1240fc2f714ec85e10cdc8c25556d812cdb785c"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/online/BSTCNTON.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/online/BSTCNTON.DBF",
+    "sha256": "b1769efcc5ae8380745ef997786df631f5b931562255dcb0e6bb25ca19769386"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/online/bstcnton.id",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/online/bstcnton.id",
+    "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/online/bstcnton.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/online/bstcnton.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/online/BSTCNTON.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/online/BSTCNTON.MDX",
+    "sha256": "1bb5f6b1b7df86b34483068f5896913d0c251a951bb78fd9493bc7aec158e498"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/online/links.lnk",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/online/links.lnk",
+    "sha256": "7d0936a2a451aaab8b94641355080bee608a8d36b5477521c09ec24ddcb60707"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/BAUSTEIN.DBF",
+    "sha256": "8e4ed718f0a53b9d08b2e59dc933fb9eeabfc36b8e8fadd476cd8a06324e0811"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/BAUSTEIN.DBT",
+    "sha256": "2873ef3743f3529d48e23b586d57153874e0d1c00304d254d403cb6aff8d65df"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/baustein.id",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/baustein.id",
+    "sha256": "2594b6a92ebfb1c3312deb7d01c015fb95e9fbe9bd7bc6b527af07813ec7b910"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/baustein.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/baustein.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/BAUSTEIN.MDX",
+    "sha256": "9f25fd2c2dfbd13cea49d5e501737bc194b76879b3a720e1298926cab4cbd75a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/links.lnk",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/links.lnk",
+    "sha256": "36d1892ab7e378ad69ffbcb6f97bca865382251848fbf36dc93d12437c9c0db6"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/SUBBLK.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/SUBBLK.DBF",
+    "sha256": "1dcf1008d68b36ac5e75a09c255105c38c4ff4930cac62d5f5753003aa980923"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/SUBBLK.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/SUBBLK.DBT",
+    "sha256": "6862fdf6bdd8a5ec131262417db875591cef7c7c0bec6e5672200c5a8876dbfd"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/ombstx/offline/00000001/usfapx.ini",
+    "repository": "exercises/06-furnace-control/native/Q6/ombstx/offline/00000001/usfapx.ini",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/omgd/linkgd/00000001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/omgd/linkgd/00000001.DBF",
+    "sha256": "0333843f4f187c9428b34f1ed21ce1d11f780cee2edffa4070223b7e6544b98a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/pgs/linkgs/00000001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/pgs/linkgs/00000001.DBF",
+    "sha256": "0cb3166e26c4d155865143696885432ccf0a40bece8317ddb8803a4193bf0236"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/00000001/S7CONTAI.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/00000001/S7CONTAI.DBF",
+    "sha256": "5ecc7ea4aaf3ddb852c1b390ce1b5c7d1191c16294b971e971b61076e16d0419"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/00000001/S7CONTAI.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/00000001/S7CONTAI.MDX",
+    "sha256": "d01846c51b1ce4eb6c143002bce5e3928f5e423e53c14b79bdd4f71caabeb1df"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/00000001/S7LINKS.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/00000001/S7LINKS.DBF",
+    "sha256": "166d85d96b54089ce32dc409aad9616a2ce9504128cb8bbe412fdc918c886178"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/s7asrcom/00000001/s7source.lck",
+    "repository": "exercises/06-furnace-control/native/Q6/s7asrcom/00000001/s7source.lck",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/00000001.PG",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/00000001.PG",
+    "sha256": "d0eaccc9c4de4c70cc84260bfe9367575a69133817925354115a055f5039ed3e"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/00000002.PG",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/00000002.PG",
+    "sha256": "d53e9c0203df5567f6277969bf85849201d68a6aed5ebcda88847b52120ba284"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/00000003.PG",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/00000003.PG",
+    "sha256": "8937828cf7136679c3fd0635e617af896c7d31fed8dfda2225faeed010ff6171"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/00000004.PG",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/00000004.PG",
+    "sha256": "a9176b1056fd8e28acf799c350bd12f0e830130de9d7358a7271de10e9723f6c"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/00000005.PG",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/00000005.PG",
+    "sha256": "439e0479b73f5e403c05394b9702dd8e45cfd04c19053d5900c9341a12b3d623"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/link/00000001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/link/00000001.DBF",
+    "sha256": "01093969b1b9b38c9df680fc9085a0c3a0c98a2347dceaba36f6cec44472f6a2"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/list/00000001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/list/00000001.DBF",
+    "sha256": "9fd40c6f71cafa930faad938898443e330c8fb7c4c6362c886cb7e8f843c764b"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/sdb/00000001/list/00000001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/sdb/00000001/list/00000001.MDX",
+    "sha256": "aa35958b4508c17fae447391ec9e7426a45bdcd91b5fb6368c4b58a8cd262f7a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/links/BSL00001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/links/BSL00001.DBF",
+    "sha256": "e12921baa9bc72035f2cd35283f49b275e1ea0d92e54e250db1d712ae7597790"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/links/CTL00001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/links/CTL00001.DBF",
+    "sha256": "9184e1a7735a7eddbe76ea2ad013cc713ba2aee7ac80abaa58535ac0462fe212"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/links/XRL00001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/links/XRL00001.DBF",
+    "sha256": "033d8c216870093317a497ec217aa1f8569d09b3340e168f756dbfab1844812b"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/listen/BS000001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/listen/BS000001.DBF",
+    "sha256": "036b23b81b8cadf71c212c35e0480940b9f5761193069b1063e9270e87f78257"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/listen/BS000001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/listen/BS000001.MDX",
+    "sha256": "25e0c36ec8dc6b46148ca30d688e8a2992a6feaecd77ec65010bb8e53bc71485"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/listen/CT000001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/listen/CT000001.DBF",
+    "sha256": "ceead0fd8d8642f5474f4eedaf066c2551423270e25deb9093ea4de3172d63f2"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/listen/CT000001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/listen/CT000001.MDX",
+    "sha256": "c650c5c00dfc602a36fb6d91acc3996eb3dc124414ddb377d44c600aff0e533a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/listen/XR000001.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/listen/XR000001.DBF",
+    "sha256": "b710f5151682b0882d6a9e0766b6166341931188d11789a4eb71725768c5644a"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/listen/XR000001.DBT",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/listen/XR000001.DBT",
+    "sha256": "12dd17447d9b6c1b6bf2cb1525dda6c7e6d88deb88b38dd1fd14e885116ebc75"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/XUTILS/listen/XR000001.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/XUTILS/listen/XR000001.MDX",
+    "sha256": "8f9e8b4a9cea3fa374032f92dffd3a1c305788e13da783c72b7711be306d2cdd"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/YDBs/25574/SYMLIST.DBF",
+    "repository": "exercises/06-furnace-control/native/Q6/YDBs/25574/SYMLIST.DBF",
+    "sha256": "5c4500315ae111737f23110fc15326e9092911ab9fef262e016e6ea72f0f19e2"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/YDBs/25574/Symlist.id",
+    "repository": "exercises/06-furnace-control/native/Q6/YDBs/25574/Symlist.id",
+    "sha256": "a376d173ece243d587f352f04307fb971f10cdbc9b9d850e8ecbd414a586fa3c"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6/YDBs/25574/SYMLIST.MDX",
+    "repository": "exercises/06-furnace-control/native/Q6/YDBs/25574/SYMLIST.MDX",
+    "sha256": "5d7b7fd8db5ddc5c476397ea0639ff5fb0e0c584b0c27ded933f892deb41a693"
+  },
+  {
+    "original": "Q6(Mideterm)/Q6.pdf",
+    "repository": "exercises/06-furnace-control/ladder-logic.pdf",
+    "sha256": "15fd9b4b2254d3b6e7277807f7950dc0a9db147032c27acc0027e160cfbb31d1"
+  }
+]
